@@ -4,7 +4,7 @@
             "id": "intro-to-chmod",
             "date": "April 2019",
             "title": "Introduction to chmod",
-            "description":"A Unix/Linux command to change the access permissions of Files and Directories. How I've learnt about it and what it does",
+            "description":"A Unix/Linux command to change the access permissions of Files and Directories, How I learnt about it. How can you use it and where will you use it",
             "isArchieved": false
         }
     ]
