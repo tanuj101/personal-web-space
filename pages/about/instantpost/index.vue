@@ -3,7 +3,7 @@
     <h1 class="blog-heading">My Work With InstantPost</h1>
     <p>
       I’ve been part of
-      <a target="_blank" href="https://instantpost.in">Instantpost</a> since August ,2018 as a work from home Intern.
+      <a target="_blank" href="https://instantpost.in">Instantpost</a> since August 2018 as a work from home Intern.
     </p>
     <p>Even though I was working from home it didn't mean there was less work or something like that. I struggled a lot at the beginning, I was in my 2nd year of college what do you expect?.</p>
     <p>
@@ -20,13 +20,26 @@ I'll be sharing more as I continue my journey here and when the products are mad
   </div>
 </template>
 <script>
-import blog from "./Instantpost.md";
 export default {
   name: "Instantpost",
-  computed: {
-    blog() {
-      return blog;
-    }
+  head:{
+    title:"My work with InstantPost",
+    meta:[
+      {
+        hid:"description",name: "description",content:"I've been part of InstantPost Printers and Scanners Private Limited since August 2018 as a work from home Intern. Even though....."
+      },
+      {
+        hid:"og:description",name:"og:description",content:"I've been part of InstantPost Printers and Scanners Private Limited since August 2018 as a work from home Intern. Even though....."
+      },{
+        hid:"og:url",property:"og:url",content:"www.tanujnagpal.me/about/instantpost"
+      },{
+        hid:"og:type",property:"og:type",content:"article"
+      },{
+        hid:"og:site_name",property:"og:site_name",content:"tanujnagpal.me"
+      },{
+        hid:"og:title",property:"og:title",content:"My work with InstantPost"
+      }
+    ]
   }
 };
 </script>

@@ -34,13 +34,13 @@ li {
 }
 li a {
   text-decoration: none;
-  color: #aaa;
+  color: #595959;
   font-size: 12px;
 }
 </style>
 <style>
-.router-link-active {
-  color: #333;
+.nuxt-link-active {
+  color: #000 !important;
 }
 .logo {
   display: inline-block;
@@ -89,11 +89,11 @@ nav {
 }
 
 .link:hover {
-  color: #333;
+  color: #000;
   text-decoration: none;
 }
 .disabled {
-  color: #aaa !important;
+  color: #595959 !important;
 }
 code {
   background: rgba(0, 0, 0, 0.04);

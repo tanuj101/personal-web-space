@@ -15,6 +15,18 @@ export default {
   },
   data: function() {
     return { posts: blogEntries };
+  },
+  head:{
+    title:"Tanuj Nagpal",
+    meta:[
+      {
+        hid:"og:url",property:"og:url",content:"www.tanujnagpal.me"
+      },{
+        hid:"og:type",property:"og:type",content:"article"
+      },{
+        hid:"og:site_name",property:"og:site_name",content:"tanujnagpal.me"
+      }
+    ]
   }
 };
 </script>
