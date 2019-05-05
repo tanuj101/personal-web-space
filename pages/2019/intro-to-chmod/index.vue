@@ -9,10 +9,10 @@ export default {
     title:"Introduction to chmod",
     meta:[
       {
-        hid:"description",name: "description",content:"A Unix/Linux command to change the access permissions of Files and Directories, How can you use it and where will you use it. I never really tried...."
+        hid:"description",name: "description",content:"A Unix/Linux command to change the access permissions of Files and Directories through command line, How can you use it and where will you use it. I never really tried...."
       },
       {
-        hid:"og:description",name:"og:description",content:"A Unix/Linux command to change the access permissions of Files and Directories, How can you use it and where will you use it. I never really tried...."
+        hid:"og:description",name:"og:description",content:"A Unix/Linux command to change the access permissions of Files and Directories through command line, How can you use it and where will you use it. I never really tried...."
       },{
         hid:"og:url",property:"og:url",content:"www.tanujnagpal.me/2019/intro-to-chmod"
       },{
@@ -20,7 +20,9 @@ export default {
       },{
         hid:"og:site_name",property:"og:site_name",content:"tanujnagpal.me"
       },{
-        hid:"og:title",property:"og:title",content:"Introduction to chmod"
+        hid:"og:title",property:"og:title",content:"Introduction to chmod for beginners"
+      },{
+        hid:"Keywords",content:"chmod,unix,shell,linux,shell scripts"
       }
     ]
   },

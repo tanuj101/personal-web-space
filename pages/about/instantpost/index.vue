@@ -5,7 +5,7 @@
       I’ve been part of
       <a target="_blank" href="https://instantpost.in">Instantpost</a> since August 2018 as a work from home Intern.
     </p>
-    <p>Even though I was working from home it didn't mean there was less work or something like that. I struggled a lot at the beginning, I was in my 2nd year of college what do you expect?.</p>
+    <p>Even though I am working from home it didn't mean there was less work or something like that. I struggled a lot at the beginning, I was in my 2nd year of college what do you expect?.</p>
     <p>
       I had no prior experience with any of the work required,
       <a target="_blank" href="https://www.linkedin.com/in/i01000001/">my mentor</a> who is also the founder of InstantPost have always kept his cool, trusting me and my work their. My experience have been fruitful as I've come across many a things which changed the way I think about Tech

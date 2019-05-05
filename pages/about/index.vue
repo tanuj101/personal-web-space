@@ -7,11 +7,11 @@
       <a
         target="_blank"
         href="https://instantpost.in"
-      >InstantPost</a> as an Intern building an
+      >InstantPost</a> as an Intern writing an
       <a
         target="_blank"
         href="https://youtu.be/hxY01RQR69w?t=853"
-      >automation tool</a>.
+      >automation software</a>.
       <!-- Find out more on
       <a href="https://www.linkedin.com/in/tanuj69/">LinkedIn</a>.-->
     </p>
@@ -43,7 +43,7 @@
       <a title="Old Rice" target="_blank" href="https://github.com/Tanuj69/dotfiles">
         <img src="../../assets/rice1.jpeg" alt>
       </a>
-      <a title="New Rice" target="_blank" href="https://github.com/Tanuj69/IPL-Live-updates">
+      <a title="Cricket update notifier" target="_blank" href="https://github.com/Tanuj69/IPL-Live-updates">
         <img src="../../assets/ipl.jpeg" alt>
       </a>
     </div>

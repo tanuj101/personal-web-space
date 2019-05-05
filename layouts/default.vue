@@ -5,11 +5,12 @@
         <h1 title="Home" class="logo-text">T</h1>
       </nuxt-link>
       <ul class="navigation">
+        <li v-show="!(this.$route.fullPath == '/')">
+          <nuxt-link title="Home" class="home" to="/">Home</nuxt-link>
+        </li>
         <li>
           <a class="link disabled" title="Coming Soon" @click.prevent>Projects</a>
           <!-- TODO: Add Projects -->
-          <!-- <router-link @click.native.prevent to="/projects">Projects</router-li
-          nk>-->
         </li>
         <li>
           <nuxt-link title="About me" class="link" to="/about">About</nuxt-link>
@@ -23,7 +24,22 @@
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  mounted: function() {
+    console.log(this.$route);
+  }
+};
+</script>
+
 <style scoped>
+.home{
+  color: rgb(192, 175, 175) !important;
+}
+.home:hover{
+  color:#333 !important;
+}
 ul {
   flex: 0 0 auto;
   list-style-type: none;
@@ -34,7 +50,7 @@ li {
 }
 li a {
   text-decoration: none;
-  color: #595959;
+  color: rgb(192, 175, 175);
   font-size: 12px;
 }
 </style>
@@ -93,7 +109,7 @@ nav {
   text-decoration: none;
 }
 .disabled {
-  color: #595959 !important;
+  color: rgb(192, 175, 175) !important;
 }
 code {
   background: rgba(0, 0, 0, 0.04);
