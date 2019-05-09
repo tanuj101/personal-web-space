@@ -2,9 +2,7 @@ module.exports = {
   /*
    ** Headers of the page
    */
-  modules:[
-    '@nuxtjs/markdownit'
-  ],
+  modules: ["@nuxtjs/markdownit"],
   head: {
     title: "Tanuj Nagpal",
     meta: [
@@ -20,7 +18,8 @@ module.exports = {
       },
       {
         rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css?family=Cormorant+Unicase|Sofia|Rajdhani"
+        href:
+          "https://fonts.googleapis.com/css?family=Cormorant+Unicase|Sofia|Rajdhani"
       }
     ]
   },
@@ -45,6 +44,7 @@ module.exports = {
         });
       }
     }
-  }
+  },
+  plugins: [{ src: "~plugins/ga.js", ssr: false }]
 };
 

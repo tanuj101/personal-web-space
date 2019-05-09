@@ -1,10 +1,19 @@
 <template>
-  <div v-html="blog"></div>
+<div>
+   <div v-html="blog">
+    
+  </div>
+</div>
+ 
 </template>
 <script>
 import blog from "./intro-to-chmod.md";
+import mailList from "../../../components/mailList";
 export default {
   name: "intro-to-chmod",
+  components:{
+    mailList
+  },
   head:{
     title:"Introduction to chmod",
     meta:[
