@@ -8,15 +8,17 @@
     <p>Even though I am working from home it didn't mean there was less work or something like that. I struggled a lot at the beginning, I was in my 2nd year of college what do you expect?.</p>
     <p>
       I had no prior experience with any of the work required,
-      <a target="_blank" href="https://www.linkedin.com/in/i01000001/">my mentor</a> who is also the founder of InstantPost have always kept his cool, trusting me and my work their. My experience have been fruitful as I've come across many a things which changed the way I think about Tech
+      <a target="_blank" href="https://www.linkedin.com/in/i01000001/">my mentor</a> who is also the founder of InstantPost is by far the most knowledgeable person I've ever known helped me a lot. My experience have been fruitful as I've come across many a things which changed the way I think about Tech
     </p>
-    <p>My journey could have ended in January 2019 but I was given this amazing opportunity to extend my stay for another 6 months that is still continuing at the time of writing this post.</p>
+    <p>My journey could have ended in earlier but I was given this amazing opportunity to extend my stay for more that is still continuing at the time of writing this post.</p>
     <br>
     <h2>InstantPost</h2>
-    <img style="height:auto;max-width:100%;" title="InstantPost" src="../../../assets/instantpost.jpg">
+    <img class="paragraph-img" title="InstantPost" src="../../../assets/instantpost.jpg">
     <br>
     <br>
-I'll be sharing more as I continue my journey here and when the products are made public. Cheers!
+      I'll be sharing more as I continue my journey here. Cheers!
+    <br><br>
+    Know more about InstantPost <a href="https://instantpost.in/">here</a>.
   </div>
 </template>
 <script>

@@ -34,11 +34,11 @@ export default {
 </script>
 
 <style scoped>
-.home{
+.home {
   color: rgb(192, 175, 175) !important;
 }
-.home:hover{
-  color:#333 !important;
+.home:hover {
+  color: #333 !important;
 }
 ul {
   flex: 0 0 auto;
@@ -155,6 +155,17 @@ body {
   font-size: 80px;
   font-weight: 700;
   margin: 30px 0 !important;
+}
+.blog-list {
+  padding: 0;
+}
+.blog-list > li {
+  margin-left: 1.4em;
+  margin-top: 0.5em;
+}
+.paragraph-img {
+  height: auto;
+  max-width: 100%;
 }
 @media (max-width: 700px) {
   .blog-heading {

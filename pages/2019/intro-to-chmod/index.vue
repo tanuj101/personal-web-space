@@ -1,18 +1,23 @@
 <template>
 <div>
    <div v-html="blog">
-    
   </div>
+  Now Let's now make our own shell script and see chmod in action.
+  Create a file named test.sh. Fill in its content with 
+  <br><br>
+  <code>echo "First shell script"</code><br><br>
+  then just give the executable permission to our script<br><br>
+  <code>chmod +x test.sh</code><br><br>
+
+
 </div>
  
 </template>
 <script>
 import blog from "./intro-to-chmod.md";
-import mailList from "../../../components/mailList";
 export default {
   name: "intro-to-chmod",
   components:{
-    mailList
   },
   head:{
     title:"Introduction to chmod",

@@ -28,7 +28,7 @@ tr{
 <h1 class="blog-heading"> Introduction to chmod</h1>
 
 <p>Before the actual understanding I never really tried how chmod works but I've used it nevertheless for various purposes like running a shell script , changing permissions of an <a target="_blank" href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html"> aws ssh key</a> etc.</p>
-<p>I didn't even care about the logic I just execute this good ol' command on one of my shell script <b>chmod +x abc.sh</b>. I came to know about chmod during one of the lectures on Operating Systems in College which was pretty usefull in a way if anyone would ask what am I doing with chmod while demonstrating something then I'd be able to answer properly</p>
+<p>I didn't even care about the working I just execute this good ol' command on one of my shell script <b>chmod +x abc.sh</b>. I came to know about chmod during one of the lectures on Operating Systems in College which was pretty usefull in a way if anyone would ask what am I doing with chmod while demonstrating something then I'd be able to answer properly</p>
 <p>Usually the chmod command is like this</p>
 
 ```sh
@@ -102,7 +102,6 @@ chmod 600 FILENAME
       </tr>
    </tbody>
 </table>
-
 Note that the first digit 6 from 600 comes from combination of three binary bits which is corresponding to <b>rw-</b>.
  6 corresponds to 110 in binary also.If we want to give the user execute permissions this bits would've been 111 which is 7 in octal. In the same way this also works.
  
@@ -117,8 +116,6 @@ To remove the permission you can do
 
 `chmod a-rw FILENAME`
 
-<p style="border-bottom:1px solid #eee;padding-bottom:40px">Then there is this <b>-R</b> Flag it comes into action when you are changing mode of a directory and want to apply same permission to every file/directory reciding inside a directory<br><br>
+<p>Then there is this <b>-R</b> Flag it comes into action when you are changing mode of a directory and want to apply same permission to every file/directory reciding inside a directory<br><br>
 <code>chmod -R 700 /path/to/directory</code>
 </p>
-
-Want to learn more? <a href="https://docstore.mik.ua/orelly/unix3/upt/ch50_05.htm">Using chmod to Change File Permission</a>

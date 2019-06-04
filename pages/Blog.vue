@@ -5,8 +5,6 @@
         <div class="blog-post">
           <h3 class>{{post.title}}</h3>
           <p>
-            <!-- TODO: ADD a blog about hosting SPA on githubpages https://github.com/
-            rafrex/spa-github-pages-->
             {{post.description}}
             <span datetime>{{post.date}}</span>
           </p>
@@ -19,9 +17,6 @@
 export default {
   name: "Blog",
   props: ["data", "year"],
-  mounted: function() {
-    //  console.log(this.year);
-  },
   methods: {
     view: function(post) {}
   }
