@@ -43,7 +43,6 @@ chmod XXX FILENAME
 chmod 600 FILENAME
 ```
 
-
 <table align="right" class="wikitable">
    <tbody>
       <tr>
@@ -104,7 +103,7 @@ chmod 600 FILENAME
 </table>
 Note that the first digit 6 from 600 comes from combination of three binary bits which is corresponding to <b>rw-</b>.
  6 corresponds to 110 in binary also.If we want to give the user execute permissions this bits would've been 111 which is 7 in octal. In the same way this also works.
- 
+
 
 ```sh
 chmod a+rw FILENAME
@@ -112,7 +111,6 @@ chmod a+rw FILENAME
 
 **a** will mean for all classes (File Owner,Group and others)
 To remove the permission you can do
-
 
 `chmod a-rw FILENAME`
 
