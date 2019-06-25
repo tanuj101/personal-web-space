@@ -8,7 +8,7 @@
   <code>echo "First shell script"</code><br><br>
   then just give the executable permission to our script<br><br>
   <code>chmod +x test.sh</code><br>
-  <p>Boom your very first shell script is ready, run it with</p>
+  <p>Boom your very first shell script is ready, run it with</p><br>
   <code>./test.sh</code>
   You will now see the output on the command line :)
 </div>
