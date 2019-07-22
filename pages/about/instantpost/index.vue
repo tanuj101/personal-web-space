@@ -5,12 +5,12 @@
       I’ve been part of
       <a target="_blank" href="https://instantpost.in">Instantpost</a> since August 2018 as a work from home Intern.
     </p>
-    <p>Even though I am working from home it didn't mean there was less work or something like that. I struggled a lot at the beginning, I was in my 2nd year of college what do you expect?.</p>
+    <p>Even though I am working from home it didn't mean there was less work or something like that. I struggled a lot at the beginning.</p>
     <p>
-      I had no prior experience with any of the work required,
-      <a target="_blank" href="https://www.linkedin.com/in/i01000001/">my mentor</a> who is also the founder of InstantPost is by far the most knowledgeable person I've ever known helped me a lot. My experience have been fruitful as I've come across many a things which changed the way I think about Tech
+      I had no prior experience with any of the work with which the job comes,
+      <a target="_blank" href="https://www.linkedin.com/in/i01000001/">my mentor</a> who is also the founder of InstantPost is by far the most knowledgeable person I've ever known stood by me and encouraged me. My experience have been fruitful as I've come across many a things which changed the way I think about Tech
     </p>
-    <p>My journey could have ended in earlier but I was given this amazing opportunity to extend my stay for more that is still continuing at the time of writing this post.</p>
+    <p>My journey could have ended in earlier but I was given this amazing opportunity to extend my stay for more than the original duration which is still continuing at the time of writing this post.</p>
     <br>
     <h2>InstantPost</h2>
     <img class="paragraph-img" title="InstantPost" src="../../../assets/instantpost.jpg">
@@ -40,6 +40,8 @@ export default {
         hid:"og:site_name",property:"og:site_name",content:"tanujnagpal.me"
       },{
         hid:"og:title",property:"og:title",content:"My work with InstantPost"
+      },{
+        hid:"keywords",content:"Instantpost,instantpost printers,instantpost free photos"
       }
     ]
   }

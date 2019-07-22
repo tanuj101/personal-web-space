@@ -23,15 +23,12 @@
       <a
         href="https://github.com/tanuj69"
         target="_blank"
-      >dabbling with softwares</a> projects, exploring
+      >dabbling with softwares</a> projects, exploring about
       <a
         href="https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy"
         target="_blank"
       >GNU/Linux</a> , building application that no one will ever use haha! I also like
-      <a
-        href="http://sherylman.com/blog/basics-of-ricing"
-        target="_blank"
-      >ricing</a>
+      ricing
       <!-- TODO: Add views on GNU/Linux vs only Linux  -->
       my GNU/Linux environment. Here are my
       <a

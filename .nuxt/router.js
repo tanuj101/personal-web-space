@@ -4,8 +4,8 @@ import { interopDefault } from './utils'
 
 const _3fcb4d8c = () => interopDefault(import('../pages/about/index.vue' /* webpackChunkName: "pages/about/index" */))
 const _37ddb2c8 = () => interopDefault(import('../pages/Blog.vue' /* webpackChunkName: "pages/Blog" */))
-const _46b1c545 = () => interopDefault(import('../pages/2019/best-linux-distro/index.vue' /* webpackChunkName: "pages/2019/best-linux-distro/index" */))
 const _691ef53c = () => interopDefault(import('../pages/2019/intro-to-chmod/index.vue' /* webpackChunkName: "pages/2019/intro-to-chmod/index" */))
+const _5c9c24d8 = () => interopDefault(import('../pages/2019/why-arch-linux/index.vue' /* webpackChunkName: "pages/2019/why-arch-linux/index" */))
 const _bedb02a8 = () => interopDefault(import('../pages/about/instantpost/index.vue' /* webpackChunkName: "pages/about/instantpost/index" */))
 const _36a87a88 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
@@ -92,13 +92,13 @@ export function createRouter() {
       component: _37ddb2c8,
       name: "Blog"
     }, {
-      path: "/2019/best-linux-distro",
-      component: _46b1c545,
-      name: "2019-best-linux-distro"
-    }, {
       path: "/2019/intro-to-chmod",
       component: _691ef53c,
       name: "2019-intro-to-chmod"
+    }, {
+      path: "/2019/why-arch-linux",
+      component: _5c9c24d8,
+      name: "2019-why-arch-linux"
     }, {
       path: "/about/instantpost",
       component: _bedb02a8,

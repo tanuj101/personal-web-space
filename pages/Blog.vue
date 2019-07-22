@@ -52,7 +52,7 @@ h3:after {
 }
 
 span {
-  color: rgb(221, 221, 221);
+  color: rgb(211, 209, 209);
 }
 a {
   text-decoration: none;
@@ -68,4 +68,5 @@ h3 {
   margin-bottom: 38px;
   cursor: pointer;
 }
+
 </style>

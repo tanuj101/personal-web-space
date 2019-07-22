@@ -103,7 +103,12 @@ nav {
   height: 50px;
   cursor: default;
 }
-
+.question{
+  background: #f1f0f0;
+  padding: 5px;
+  border-left: 3px solid #333;
+  margin: 25px 0px;
+}
 .link:hover {
   color: #000;
   text-decoration: none;

@@ -10,7 +10,8 @@
   <code>chmod +x test.sh</code><br>
   <p>Boom your very first shell script is ready, run it with</p><br>
   <code>./test.sh</code>
-  You will now see the output on the command line :)
+  You will now see the output on the command line :) <br>
+  <br>Kudos on your first ever shell script!. That should be enough for introduction.
 </div>
  
 </template>
