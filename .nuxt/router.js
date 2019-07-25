@@ -4,6 +4,7 @@ import { interopDefault } from './utils'
 
 const _3fcb4d8c = () => interopDefault(import('../pages/about/index.vue' /* webpackChunkName: "pages/about/index" */))
 const _37ddb2c8 = () => interopDefault(import('../pages/Blog.vue' /* webpackChunkName: "pages/Blog" */))
+const _094669fa = () => interopDefault(import('../pages/projects/index.vue' /* webpackChunkName: "pages/projects/index" */))
 const _691ef53c = () => interopDefault(import('../pages/2019/intro-to-chmod/index.vue' /* webpackChunkName: "pages/2019/intro-to-chmod/index" */))
 const _5c9c24d8 = () => interopDefault(import('../pages/2019/why-arch-linux/index.vue' /* webpackChunkName: "pages/2019/why-arch-linux/index" */))
 const _bedb02a8 = () => interopDefault(import('../pages/about/instantpost/index.vue' /* webpackChunkName: "pages/about/instantpost/index" */))
@@ -91,6 +92,10 @@ export function createRouter() {
       path: "/Blog",
       component: _37ddb2c8,
       name: "Blog"
+    }, {
+      path: "/projects",
+      component: _094669fa,
+      name: "projects"
     }, {
       path: "/2019/intro-to-chmod",
       component: _691ef53c,

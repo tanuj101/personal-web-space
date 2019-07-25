@@ -38,15 +38,25 @@
     </p>
     <div class="flex-row">
       <a title="Old Rice" target="_blank" href="https://github.com/Tanuj69/dotfiles">
-        <img src="../../assets/rice1.jpeg" alt>
+        <img src="../../assets/rice1.jpeg" alt />
       </a>
-      <a title="Cricket update notifier" target="_blank" href="https://github.com/Tanuj69/IPL-Live-updates">
-        <img src="../../assets/ipl.jpeg" alt>
+      <a
+        title="Cricket update notifier"
+        target="_blank"
+        href="https://github.com/Tanuj69/IPL-Live-updates"
+      >
+        <img src="../../assets/ipl.jpeg" alt />
       </a>
     </div>
+    <p>Here is a glimpse or my workspace ;). I'm using fish as a replacement to bash because it serves me well and my custom <a href="https://github.com/Tanuj69/st" target="_blank">st</a> build as a terminal because of it's lightness and speed </p>
+    <center>
+      <video width="500px" src="../../assets/workspace.mp4" controls autoplay></video>
+    </center>
+    <p>I've also been trying my hands at C++ which very quickly became my favourite language in no time. I'll share my love and hate experience with it soonish...</p>
     <p
       style="border-bottom:1px solid #eee;padding-bottom:40px"
     >Gaming used to be a big part of my life, but has lately taken a back seat as a past time hobby. I played FPS Games like Call of Duty(Most of the segments), TPP games like Tomb Raider, Mad Max and some strategic games like Clash of Clans.</p>
+
     <h2>etc</h2>
     <ul>
       <li>
@@ -65,20 +75,35 @@
 <script>
 export default {
   name: "Abou",
-  head:{
-    title:"About — Tanuj Nagpal",
-    meta:[
+  head: {
+    title: "About — Tanuj Nagpal",
+    meta: [
       {
-        hid:"description",name: "description",content:"Hello. My name is Tanuj Nagpal. I'm an Indian maker-of-software with a passion for technology. During the past 1 year I've worked with...."
+        hid: "description",
+        name: "description",
+        content:
+          "Hello. My name is Tanuj Nagpal. I'm an Indian maker-of-software with a passion for technology. During the past 1 year I've worked with...."
       },
       {
-        hid:"og:description",name:"og:description",content:"Hello. My name is Tanuj Nagpal. I'm an Indian maker-of-software with a passion for technology. During the past 1 year I've worked with...."
-      },{
-        hid:"og:url",property:"og:url",content:"www.tanujnagpal.me/about"
-      },{
-        hid:"og:type",property:"og:type",content:"article"
-      },{
-        hid:"og:site_name",property:"og:site_name",content:"tanujnagpal.me"
+        hid: "og:description",
+        name: "og:description",
+        content:
+          "Hello. My name is Tanuj Nagpal. I'm an Indian maker-of-software with a passion for technology. During the past 1 year I've worked with...."
+      },
+      {
+        hid: "og:url",
+        property: "og:url",
+        content: "www.tanujnagpal.me/about"
+      },
+      {
+        hid: "og:type",
+        property: "og:type",
+        content: "article"
+      },
+      {
+        hid: "og:site_name",
+        property: "og:site_name",
+        content: "tanujnagpal.me"
       }
     ]
   }

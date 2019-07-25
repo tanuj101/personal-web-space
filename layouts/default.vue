@@ -9,7 +9,8 @@
           <nuxt-link title="Home" class="home" to="/">Home</nuxt-link>
         </li>
         <li>
-          <a class="link disabled" title="Coming Soon" @click.prevent>Projects</a>
+          <!-- <a class="link disabled" title="Coming Soon" @click.prevent>Projects</a> -->
+          <nuxt-link title="Projects" class="link" to="/projects">Projects</nuxt-link>
           <!-- TODO: Add Projects -->
         </li>
         <li>

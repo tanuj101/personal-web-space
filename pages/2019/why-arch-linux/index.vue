@@ -86,15 +86,15 @@
 </template>
 <script>
 export default {
-  name: "best-linux-distro",
+  name: "why-arch-linux",
   head: {
-    title: "Best Linux Distro of All time",
+    title: "why arch linux?",
     meta: [
       {
         hid: "description",
         name: "description",
         content:
-          "The Best and Easiest GNU/Linux Distribution of All time, I thought about it for quite a while, The answer might as well surprise you and change the way you think..."
+          "In general Distros matter when you usually talk about GNU/Linux but all things considered I think there is one distribution that I think is a little special and that is Arch Linux"
       },
       {
         hid: "og:description",
@@ -105,7 +105,7 @@ export default {
       {
         hid: "og:url",
         property: "og:url",
-        content: "www.tanujnagpal.me/2019/best-linux-distro"
+        content: "www.tanujnagpal.me/2019/why-arch-linux"
       },
       {
         hid: "og:type",
@@ -120,7 +120,7 @@ export default {
       {
         hid: "og:title",
         property: "og:title",
-        content: "Best Linux Distro of All time"
+        content: "Why Arch Linux?"
       },
       {
         hid: "Keywords",
