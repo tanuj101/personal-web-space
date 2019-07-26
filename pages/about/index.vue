@@ -1,5 +1,8 @@
 <template>
   <div>
+    <p>
+      <img align="right" class="dp" src="../../assets/DSC_0160 (1).jpg" width="128" alt />
+    </p>
     <p>Hello. My name is Tanuj Nagpal.</p>
     <p>I'm an Indian developer with a passion for technology.</p>
     <p>
@@ -38,20 +41,27 @@
     </p>
     <div class="flex-row">
       <a title="Old Rice" target="_blank" href="https://github.com/Tanuj69/dotfiles">
-        <img src="../../assets/rice1.jpeg" alt />
+        <img height="140" src="../../assets/rice1.jpeg" alt />
       </a>
       <a
         title="Cricket update notifier"
         target="_blank"
         href="https://github.com/Tanuj69/IPL-Live-updates"
       >
-        <img src="../../assets/ipl.jpeg" alt />
+        <img height="140" width="190" src="../../assets/ipl.jpeg" alt />
+      </a>
+      <a href="https://github.com/Tanuj69/dotfiles" target="_blank">
+        <video height="140" width="190" src="../../assets/workspace.mp4" controls autoplay loop></video>
       </a>
     </div>
-    <p>Here is a glimpse or my workspace ;). I'm using fish as a replacement to bash because it serves me well and my custom <a href="https://github.com/Tanuj69/st" target="_blank">st</a> build as a terminal because of it's lightness and speed </p>
-    <center>
-      <video width="500px" src="../../assets/workspace.mp4" controls autoplay></video>
-    </center>
+    <p>
+      Here is a glimpse of my workspace ;). I'm using i3wm as my window manager, fish as a replacement to bash because it serves me well and my custom
+      <a
+        href="https://github.com/Tanuj69/st"
+        target="_blank"
+      >st</a> build as a terminal because of it's lightness and speed
+    </p>
+    <center></center>
     <p>I've also been trying my hands at C++ which very quickly became my favourite language in no time. I'll share my love and hate experience with it soonish...</p>
     <p
       style="border-bottom:1px solid #eee;padding-bottom:40px"
@@ -110,6 +120,10 @@ export default {
 };
 </script>
 <style scoped>
+.dp{
+  border-radius: 2px;
+  padding: 10px
+}
 ul {
   padding: 0;
 }
@@ -120,12 +134,18 @@ ul > li {
 .flex-row {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
+  overflow-x: auto;
 }
-.flex-row img {
+.flex-row img,
+.flex-row video {
   padding: 0px;
   margin: 0px;
-  width: 95%;
-  height: auto;
+  width: 200;
+  height: 140;
+}
+video {
+  width: 200;
 }
 p {
   font-size: 15px;

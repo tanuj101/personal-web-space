@@ -2,13 +2,13 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import { interopDefault } from './utils'
 
-const _3fcb4d8c = () => interopDefault(import('../pages/about/index.vue' /* webpackChunkName: "pages/about/index" */))
-const _37ddb2c8 = () => interopDefault(import('../pages/Blog.vue' /* webpackChunkName: "pages/Blog" */))
-const _094669fa = () => interopDefault(import('../pages/projects/index.vue' /* webpackChunkName: "pages/projects/index" */))
-const _691ef53c = () => interopDefault(import('../pages/2019/intro-to-chmod/index.vue' /* webpackChunkName: "pages/2019/intro-to-chmod/index" */))
-const _5c9c24d8 = () => interopDefault(import('../pages/2019/why-arch-linux/index.vue' /* webpackChunkName: "pages/2019/why-arch-linux/index" */))
-const _bedb02a8 = () => interopDefault(import('../pages/about/instantpost/index.vue' /* webpackChunkName: "pages/about/instantpost/index" */))
-const _36a87a88 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _5500c04e = () => interopDefault(import('../pages/about/index.vue' /* webpackChunkName: "pages/about/index" */))
+const _a7074b98 = () => interopDefault(import('../pages/Blog.vue' /* webpackChunkName: "pages/Blog" */))
+const _78dbc922 = () => interopDefault(import('../pages/projects/index.vue' /* webpackChunkName: "pages/projects/index" */))
+const _02baf976 = () => interopDefault(import('../pages/2019/intro-to-chmod/index.vue' /* webpackChunkName: "pages/2019/intro-to-chmod/index" */))
+const _d832ce28 = () => interopDefault(import('../pages/2019/why-arch-linux/index.vue' /* webpackChunkName: "pages/2019/why-arch-linux/index" */))
+const _4652e7c0 = () => interopDefault(import('../pages/about/instantpost/index.vue' /* webpackChunkName: "pages/about/instantpost/index" */))
+const _03e208d0 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 Vue.use(Router)
 
@@ -86,31 +86,31 @@ export function createRouter() {
 
     routes: [{
       path: "/about",
-      component: _3fcb4d8c,
+      component: _5500c04e,
       name: "about"
     }, {
       path: "/Blog",
-      component: _37ddb2c8,
+      component: _a7074b98,
       name: "Blog"
     }, {
       path: "/projects",
-      component: _094669fa,
+      component: _78dbc922,
       name: "projects"
     }, {
       path: "/2019/intro-to-chmod",
-      component: _691ef53c,
+      component: _02baf976,
       name: "2019-intro-to-chmod"
     }, {
       path: "/2019/why-arch-linux",
-      component: _5c9c24d8,
+      component: _d832ce28,
       name: "2019-why-arch-linux"
     }, {
       path: "/about/instantpost",
-      component: _bedb02a8,
+      component: _4652e7c0,
       name: "about-instantpost"
     }, {
       path: "/",
-      component: _36a87a88,
+      component: _03e208d0,
       name: "index"
     }],
 
