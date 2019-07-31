@@ -84,7 +84,7 @@
 
 <script>
 export default {
-  name: "Abou",
+  name: "About",
   head: {
     title: "About — Tanuj Nagpal",
     meta: [
@@ -103,7 +103,7 @@ export default {
       {
         hid: "og:url",
         property: "og:url",
-        content: "www.tanujnagpal.me/about"
+        content: "www.tanujnagpal.tech/about"
       },
       {
         hid: "og:type",
@@ -113,16 +113,16 @@ export default {
       {
         hid: "og:site_name",
         property: "og:site_name",
-        content: "tanujnagpal.me"
+        content: "tanujnagpal.tech"
       }
     ]
   }
 };
 </script>
 <style scoped>
-.dp{
+.dp {
   border-radius: 2px;
-  padding: 10px
+  padding: 10px;
 }
 ul {
   padding: 0;

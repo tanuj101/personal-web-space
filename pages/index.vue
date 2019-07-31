@@ -20,11 +20,11 @@ export default {
     title:"Tanuj Nagpal",
     meta:[
       {
-        hid:"og:url",property:"og:url",content:"www.tanujnagpal.me"
+        hid:"og:url",property:"og:url",content:"www.tanujnagpal.tech"
       },{
         hid:"og:type",property:"og:type",content:"article"
       },{
-        hid:"og:site_name",property:"og:site_name",content:"tanujnagpal.me"
+        hid:"og:site_name",property:"og:site_name",content:"tanujnagpal.tech"
       }
     ]
   }

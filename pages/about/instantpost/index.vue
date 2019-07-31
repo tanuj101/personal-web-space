@@ -33,11 +33,11 @@ export default {
       {
         hid:"og:description",name:"og:description",content:"I've been part of InstantPost Printers and Scanners Private Limited since August 2018 as a work from home Intern. Even though....."
       },{
-        hid:"og:url",property:"og:url",content:"www.tanujnagpal.me/about/instantpost"
+        hid:"og:url",property:"og:url",content:"www.tanujnagpal.tech/about/instantpost"
       },{
         hid:"og:type",property:"og:type",content:"article"
       },{
-        hid:"og:site_name",property:"og:site_name",content:"tanujnagpal.me"
+        hid:"og:site_name",property:"og:site_name",content:"tanujnagpal.tech"
       },{
         hid:"og:title",property:"og:title",content:"My work with InstantPost"
       },{

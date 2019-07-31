@@ -105,7 +105,7 @@ export default {
       {
         hid: "og:url",
         property: "og:url",
-        content: "www.tanujnagpal.me/2019/why-arch-linux"
+        content: "www.tanujnagpal.tech/2019/why-arch-linux"
       },
       {
         hid: "og:type",
@@ -115,7 +115,7 @@ export default {
       {
         hid: "og:site_name",
         property: "og:site_name",
-        content: "tanujnagpal.me"
+        content: "tanujnagpal.tech"
       },
       {
         hid: "og:title",
@@ -124,7 +124,8 @@ export default {
       },
       {
         hid: "Keywords",
-        content: "Linux,Arch Linux,how to install Arch,Unix,GNU/Linux,why install arch?,should I install arch?"
+        content:
+          "Linux,Arch Linux,how to install Arch,Unix,GNU/Linux,why install arch?,should I install arch?"
       }
     ]
   }

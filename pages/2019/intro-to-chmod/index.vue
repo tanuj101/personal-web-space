@@ -30,11 +30,11 @@ export default {
       {
         hid:"og:description",name:"og:description",content:"A Unix/Linux command to change the access permissions of Files and Directories through command line, How can you use it and where will you use it. I never really tried...."
       },{
-        hid:"og:url",property:"og:url",content:"www.tanujnagpal.me/2019/intro-to-chmod"
+        hid:"og:url",property:"og:url",content:"www.tanujnagpal.tech/2019/intro-to-chmod"
       },{
         hid:"og:type",property:"og:type",content:"article"
       },{
-        hid:"og:site_name",property:"og:site_name",content:"tanujnagpal.me"
+        hid:"og:site_name",property:"og:site_name",content:"tanujnagpal.tech"
       },{
         hid:"og:title",property:"og:title",content:"Introduction to chmod for beginners"
       },{
