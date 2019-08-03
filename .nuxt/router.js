@@ -5,8 +5,8 @@ import { interopDefault } from './utils'
 const _5500c04e = () => interopDefault(import('../pages/about/index.vue' /* webpackChunkName: "pages/about/index" */))
 const _a7074b98 = () => interopDefault(import('../pages/Blog.vue' /* webpackChunkName: "pages/Blog" */))
 const _78dbc922 = () => interopDefault(import('../pages/projects/index.vue' /* webpackChunkName: "pages/projects/index" */))
+const _1ccd0e32 = () => interopDefault(import('../pages/2019/exploring-cpp/index.vue' /* webpackChunkName: "pages/2019/exploring-cpp/index" */))
 const _02baf976 = () => interopDefault(import('../pages/2019/intro-to-chmod/index.vue' /* webpackChunkName: "pages/2019/intro-to-chmod/index" */))
-const _3ec827de = () => interopDefault(import('../pages/2019/my-love-for-cpp/index.vue' /* webpackChunkName: "pages/2019/my-love-for-cpp/index" */))
 const _d832ce28 = () => interopDefault(import('../pages/2019/why-arch-linux/index.vue' /* webpackChunkName: "pages/2019/why-arch-linux/index" */))
 const _4652e7c0 = () => interopDefault(import('../pages/about/instantpost/index.vue' /* webpackChunkName: "pages/about/instantpost/index" */))
 const _03e208d0 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
@@ -98,13 +98,13 @@ export function createRouter() {
       component: _78dbc922,
       name: "projects"
     }, {
+      path: "/2019/exploring-cpp",
+      component: _1ccd0e32,
+      name: "2019-exploring-cpp"
+    }, {
       path: "/2019/intro-to-chmod",
       component: _02baf976,
       name: "2019-intro-to-chmod"
-    }, {
-      path: "/2019/my-love-for-cpp",
-      component: _3ec827de,
-      name: "2019-my-love-for-cpp"
     }, {
       path: "/2019/why-arch-linux",
       component: _d832ce28,

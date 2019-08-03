@@ -8,11 +8,9 @@
         <li v-show="!(this.$route.fullPath == '/')">
           <nuxt-link title="Home" class="home" to="/">Home</nuxt-link>
         </li>
-        <li>
-          <!-- <a class="link disabled" title="Coming Soon" @click.prevent>Projects</a> -->
+        <!-- <li>
           <nuxt-link title="Projects" class="link" to="/projects">Projects</nuxt-link>
-          <!-- TODO: Add Projects -->
-        </li>
+        </li>-->
         <li>
           <nuxt-link title="About me" class="link" to="/about">About</nuxt-link>
         </li>
@@ -20,7 +18,7 @@
     </nav>
     <div id="main">
       <transition name="component-fade" mode="out-in">
-        <nuxt/>
+        <nuxt />
       </transition>
     </div>
   </div>
@@ -104,7 +102,7 @@ nav {
   height: 50px;
   cursor: default;
 }
-.question{
+.question {
   background: #f1f0f0;
   padding: 5px;
   border-left: 3px solid #333;
@@ -118,7 +116,7 @@ nav {
   color: rgb(192, 175, 175) !important;
 }
 code {
-  background: rgba(0, 0, 0, 0.04);
+  background: rgba(233, 232, 232, 0.973);
 }
 * {
   font-family: "IBM Plex Sans", sans-serif;
@@ -172,6 +170,7 @@ body {
 .paragraph-img {
   height: auto;
   max-width: 100%;
+  padding: 35px 0px;
 }
 @media (max-width: 700px) {
   .blog-heading {
@@ -185,6 +184,9 @@ body {
 .component-fade-enter, .component-fade-leave-to
 /* .component-fade-leave-active below version 2.1.8 */ {
   opacity: 0;
+}
+div {
+  font-size: 15px;
 }
 </style>
 

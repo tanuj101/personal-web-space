@@ -1,7 +1,7 @@
 <template>
   <div>
     <div v-for="post in data" :key="post.id">
-      <nuxt-link class="blog-link" :to="`/${year}/${post.id}`">
+      <nuxt-link v-if="!post.isArchieved" class="blog-link" :to="`/${year}/${post.id}`">
         <div class="blog-post">
           <h3 class>{{post.title}}</h3>
           <p>
@@ -68,5 +68,4 @@ h3 {
   margin-bottom: 38px;
   cursor: pointer;
 }
-
 </style>

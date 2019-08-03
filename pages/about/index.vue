@@ -4,7 +4,7 @@
       <img align="right" class="dp" src="../../assets/DSC_0160 (1).jpg" width="128" alt />
     </p>
     <p>Hello. My name is Tanuj Nagpal.</p>
-    <p>I'm an Indian developer with a passion for technology.</p>
+    <p>I'm a computer science student with a passion for technology.</p>
     <p>
       During the past 1 year I've worked with
       <a
@@ -37,7 +37,7 @@
       <a
         target="_blank"
         href="https://github.com/Tanuj69/dotfiles"
-      >dotfiles</a> just in case.
+      >dotfiles</a> or configs you may say just in case. My laptop is not top notch or high config and also I like minimalism to things around me so I keep my Desktop environment minimal below is some description about it.
     </p>
     <div class="flex-row">
       <a title="Old Rice" target="_blank" href="https://github.com/Tanuj69/dotfiles">
@@ -55,17 +55,27 @@
       </a>
     </div>
     <p>
-      Here is a glimpse of my workspace ;). I'm using i3wm as my window manager, fish as a replacement to bash because it serves me well and my custom
+      Here is a glimpse of my workspace ;). I'm using i3wm as my window manager to keep everything organized at my dekstop so that everything is in reach within a minimum key strokes away,
+      <a
+        href="https://github.com/fish-shell/fish-shell"
+        target="_blank"
+      >fish</a> as a replacement to bash because it serves me well and my custom
       <a
         href="https://github.com/Tanuj69/st"
         target="_blank"
       >st</a> build as a terminal because of it's lightness and speed
     </p>
     <center></center>
-    <p>I've also been trying my hands at C++ which very quickly became my favourite language in no time. I'll share my love and hate experience with it soonish...</p>
+    <p>
+      I maintain this website as my blog where I can share my experience with anything that occurs to me whilst I keep moving forward in the world of technology. This is also a side project which I started for fun with
+      <a
+        href="https://github.com/nuxt"
+        target="_blank"
+      >nuxt.js</a> which is built on the top of Vue to get hands on experience with how server side pages web pages can be generated from a component-based web app with full SEO support and client side routing solely on front-end. Further if anyone would like to see the source code of this website just drop me a message I'd clean up the code and make it free on Github. I didn't do it yet because I'm lazy and really need a reason ;p.
+    </p>
     <p
       style="border-bottom:1px solid #eee;padding-bottom:40px"
-    >Gaming used to be a big part of my life, but has lately taken a back seat as a past time hobby. I played FPS Games like Call of Duty(Most of the segments), TPP games like Tomb Raider, Mad Max and some strategic games like Clash of Clans.</p>
+    >Gaming also used to be a big part of my life, but has lately taken a back seat as a past time hobby as I discovered more exciting things. I played FPS Games like Call of Duty(Most of the segments), TPP games like Tomb Raider, Mad Max and a strategic game which by far I've played the most Clash of Clans.</p>
 
     <h2>etc</h2>
     <ul>
@@ -121,7 +131,7 @@ export default {
 </script>
 <style scoped>
 .dp {
-  border-radius: 2px;
+  border-radius: 12px;
   padding: 10px;
 }
 ul {
