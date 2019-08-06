@@ -1,14 +1,14 @@
 <template>
   <div id="blog-container">
     <div v-for="(post,year) in posts" :key="year">
-        <Blog :year="year" :data="post"></Blog>
+      <Blog :year="year" :data="post"></Blog>
     </div>
   </div>
 </template>
 
 <script>
 import blogEntries from "../static/data/blogs.json";
-import Blog from "./Blog";
+import Blog from "@@/components/Blog";
 export default {
   components: {
     Blog
@@ -16,15 +16,23 @@ export default {
   data: function() {
     return { posts: blogEntries };
   },
-  head:{
-    title:"Tanuj Nagpal",
-    meta:[
+  head: {
+    title: "Tanuj Nagpal",
+    meta: [
       {
-        hid:"og:url",property:"og:url",content:"www.tanujnagpal.tech"
-      },{
-        hid:"og:type",property:"og:type",content:"article"
-      },{
-        hid:"og:site_name",property:"og:site_name",content:"tanujnagpal.tech"
+        hid: "og:url",
+        property: "og:url",
+        content: "www.tanujnagpal.tech"
+      },
+      {
+        hid: "og:type",
+        property: "og:type",
+        content: "article"
+      },
+      {
+        hid: "og:site_name",
+        property: "og:site_name",
+        content: "tanujnagpal.tech"
       }
     ]
   }
@@ -32,7 +40,7 @@ export default {
 </script>
 
 <style>
-.blog-link{
+.blog-link {
   color: #333 !important;
   text-decoration: none !important;
 }

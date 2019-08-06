@@ -37,7 +37,7 @@
       <a
         target="_blank"
         href="https://github.com/Tanuj69/dotfiles"
-      >dotfiles</a> or configs you may say just in case. My laptop is not top notch or high config and also I like minimalism to things around me so I keep my Desktop environment minimal below is some description about it.
+      >dotfiles</a> or configs you may say just in case. My laptop is not top notch or high config and also I like minimalism to things around me so I keep my Desktop environment like this, below is some description about it.
     </p>
     <div class="flex-row">
       <a title="Old Rice" target="_blank" href="https://github.com/Tanuj69/dotfiles">
@@ -67,7 +67,7 @@
     </p>
     <center></center>
     <p>
-      I maintain this website as my blog where I can share my experience with anything that occurs to me whilst I keep moving forward in the world of technology. This is also a side project which I started for fun with
+      I maintain this website as my blog where I can share my experience with anything that occurs to me whilst I keep moving forward in the world . This is also a side project which I started for fun with
       <a
         href="https://github.com/nuxt"
         target="_blank"

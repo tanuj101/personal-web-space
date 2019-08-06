@@ -3,7 +3,6 @@ import Router from 'vue-router'
 import { interopDefault } from './utils'
 
 const _5500c04e = () => interopDefault(import('../pages/about/index.vue' /* webpackChunkName: "pages/about/index" */))
-const _a7074b98 = () => interopDefault(import('../pages/Blog.vue' /* webpackChunkName: "pages/Blog" */))
 const _78dbc922 = () => interopDefault(import('../pages/projects/index.vue' /* webpackChunkName: "pages/projects/index" */))
 const _1ccd0e32 = () => interopDefault(import('../pages/2019/exploring-cpp/index.vue' /* webpackChunkName: "pages/2019/exploring-cpp/index" */))
 const _02baf976 = () => interopDefault(import('../pages/2019/intro-to-chmod/index.vue' /* webpackChunkName: "pages/2019/intro-to-chmod/index" */))
@@ -89,10 +88,6 @@ export function createRouter() {
       path: "/about",
       component: _5500c04e,
       name: "about"
-    }, {
-      path: "/Blog",
-      component: _a7074b98,
-      name: "Blog"
     }, {
       path: "/projects",
       component: _78dbc922,
