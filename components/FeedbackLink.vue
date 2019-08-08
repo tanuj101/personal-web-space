@@ -1,6 +1,6 @@
 <template>
   <span>
-    <a v-on:click.prevent id="show-modal" @click="bool = true">Show Modal</a>
+    <a v-on:click.prevent id="show-modal" @click="bool = true">Feedback</a>
     <Feedback v-if="bool" @close="bool = false"></Feedback>
   </span>
 </template>

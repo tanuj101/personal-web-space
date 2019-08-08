@@ -71,7 +71,9 @@
       <a
         href="https://github.com/nuxt"
         target="_blank"
-      >nuxt.js</a> which is built on the top of Vue to get hands on experience with how server side pages web pages can be generated from a component-based web app with full SEO support and client side routing solely on front-end. Further if anyone would like to see the source code of this website just drop me a message I'd clean up the code and make it free on Github. I didn't do it yet because I'm lazy and really need a reason ;p.
+      >nuxt.js</a> which is built on the top of Vue to get hands on experience with how server side pages web pages can be generated from a component-based web app with full SEO support and client side routing solely on front-end. Further if anyone would like to see the source code of this website just drop me a message I'd clean up the code and make it free on Github. I didn't do it yet because I'm lazy and really need a reason ;p. Anyway if you have any kind of feedpack feel free to click on this
+      <i>anonymous</i>
+      <FeedbackLink />link.
     </p>
     <p
       style="border-bottom:1px solid #eee;padding-bottom:40px"
@@ -93,7 +95,11 @@
 </template>
 
 <script>
+import FeedbackLink from "@@/components/FeedbackLink";
 export default {
+  components: {
+    FeedbackLink
+  },
   name: "About",
   head: {
     title: "About — Tanuj Nagpal",

@@ -70,7 +70,11 @@
       >Arch Wiki</a> where you can find solution to literally every problem. Also maintained by Arch users they are just like greatest in the universe you can be just like that ;D. It's just that all of them have gone through that process.
     </p>
     <p>I know all the Linux Distros are the same I hold by that, I am not telling anyone to switch to Arch Linux. Doesn't matter what you use Doesn't mean it makes a difference. If you're used to using whatever system you use, that's fantastic. Just dont't fall for the meme it is not a difficult to use distro. Arch is literally where I stopped distro hopping which I used to to because I found a distro where I didn't have to think about what I'm running I just think about what i've installed on my computer and how easily I can change.</p>
-    <p></p>At last
+    <p></p>
+    <p>
+      At last thank you for reading this and if you have any kind of feedback feel free to hit on this <i>anonymous</i>
+      <FeedbackLink />link.
+    </p>
     <b>TL;DR</b>
     <ul class="blog-list">
       <li>
@@ -85,8 +89,12 @@
   </div>
 </template>
 <script>
+import FeedbackLink from "@@/components/FeedbackLink";
 export default {
   name: "why-arch-linux",
+  components: {
+    FeedbackLink
+  },
   head: {
     title: "why arch linux?",
     meta: [

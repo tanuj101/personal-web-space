@@ -33,6 +33,43 @@ export default {
         hid: "og:site_name",
         property: "og:site_name",
         content: "tanujnagpal.tech"
+      },
+      {
+        hid: "description",
+        name: "description",
+        content:
+          "Hello. My name is Tanuj Nagpal. I'm an Indian maker-of-software with a passion for technology. During the past 1 year I've worked with...."
+      },
+      {
+        hid: "og:description",
+        name: "og:description",
+        content:
+          "Hello. My name is Tanuj Nagpal. I'm an Indian maker-of-software with a passion for technology. During the past 1 year I've worked with...."
+      },
+      {
+        hid: "og:url",
+        property: "og:url",
+        content: "www.tanujnagpal.tech/"
+      },
+      {
+        hid: "og:type",
+        property: "og:type",
+        content: "article"
+      },
+      {
+        hid: "og:site_name",
+        property: "og:site_name",
+        content: "tanujnagpal.tech"
+      },
+      {
+        hid: "og:title",
+        property: "og:title",
+        content: "About — Tanuj Nagpal"
+      },
+      {
+        hid: "Keywords",
+        content:
+          "Tanuj Nagpal,TanujNagpal,Tanuj nagpal instantpost,intern,instantpost,tanuj,tanuj github,tanuj69,tanuj web instantpost"
       }
     ]
   }

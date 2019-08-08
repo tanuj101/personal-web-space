@@ -11,9 +11,12 @@
     <loc>http://www.tanujnagpal.tech/about</loc>
   </url>
   <url>
-    <loc>http://www.tanujnagpal.tech/about/Instantpost</loc>
+    <loc>http://www.tanujnagpal.tech/about/instantpost</loc>
   </url>
   <url>
-    <loc>http://www.tanujnagpal.tech/2019/Why-arch-linux</loc>
+    <loc>http://www.tanujnagpal.tech/2019/why-arch-linux</loc>
+  </url>
+  <url>
+  <loc>http://www.tanujnagpal.tech/2019/exploring-cpp</loc>
   </url>
 </urlset>

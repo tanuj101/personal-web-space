@@ -15,7 +15,7 @@
               <button
                 v-bind:disabled="message === ''"
                 class="pure-material-button-contained"
-                @click="$emit('submit')"
+                @click="submitMsg"
               >SUBMIT</button>
             </div>
           </div>
@@ -28,6 +28,38 @@
 export default {
   data: function() {
     return { showModal: false, message: "" };
+  },
+  methods: {
+    submitMsg: async function() {
+      try {
+        const res = await this.sendRequest(this.message);
+        if (res.status == 200) {
+          this.$emit("close");
+          alert("Sent successfully");
+        } else {
+          alert("Please try again");
+        }
+      } catch (e) {
+        console.log(e);
+        alert("Please try again");
+      }
+      console.log(this.message);
+    },
+    sendRequest: function(data) {
+      return fetch(
+        "https://us-central1-socialmediaapp-d1306.cloudfunctions.net/api/data",
+        {
+          method: "POST",
+          headers: {
+            Accept: "application/json",
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify({
+            body: data
+          })
+        }
+      );
+    }
   }
 };
 </script>
@@ -151,7 +183,7 @@ select:focus {
   height: 100%;
   background-color: rgba(0, 0, 0, 0.5);
   display: table;
-  transition: opacity 0.3s ease;
+  transition: opacity 1.3s ease;
 }
 
 .modal-wrapper {
@@ -166,7 +198,7 @@ select:focus {
   background-color: #fff;
   border-radius: 2px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.33);
-  transition: all 0.3s ease;
+  transition: all 1.3s ease;
   font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -184,15 +216,6 @@ select:focus {
   margin-right: 10px;
 }
 
-/*
- * The following styles are auto-applied to elements with
- * transition="modal" when their visibility is toggled
- * by Vue.js.
- *
- * You can easily play with the modal transition by editing
- * these styles.
- */
-
 .modal-enter {
   opacity: 0;
 }
@@ -204,6 +227,6 @@ select:focus {
 .modal-enter .modal-container,
 .modal-leave-active .modal-container {
   -webkit-transform: scale(1.1);
-  transform: scale(1.1);
+  transform: scale(1.5);
 }
 </style>
