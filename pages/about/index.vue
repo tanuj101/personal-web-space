@@ -1,7 +1,7 @@
 <template>
   <div>
     <p>
-      <img align="right" class="dp" src="../../assets/DSC_0160 (1).jpg" width="128" alt />
+      <img align="right" class="dp" src="../../assets/DSC_0160 (1).jpg" width="128" />
     </p>
     <p>Hello. My name is Tanuj Nagpal.</p>
     <p>I'm a computer science student with a passion for technology.</p>
