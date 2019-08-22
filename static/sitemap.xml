@@ -2,24 +2,24 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>http://www.tanujnagpal.tech/</loc>
+    <loc>https://www.tanujnagpal.tech/</loc>
   </url>
   <url>
-    <loc>http://www.tanujnagpal.tech/2019/intro-to-chmod</loc>
+    <loc>https://www.tanujnagpal.tech/2019/intro-to-chmod/</loc>
   </url>
   <url>
-    <loc>http://www.tanujnagpal.tech/about</loc>
+    <loc>https://www.tanujnagpal.tech/about/</loc>
   </url>
   <url>
-    <loc>http://www.tanujnagpal.tech/about/instantpost</loc>
+    <loc>https://www.tanujnagpal.tech/about/instantpost/</loc>
   </url>
   <url>
-    <loc>http://www.tanujnagpal.tech/2019/why-arch-linux</loc>
+    <loc>https://www.tanujnagpal.tech/2019/why-arch-linux/</loc>
   </url>
   <url>
-  <loc>http://www.tanujnagpal.tech/2019/exploring-cpp</loc>
+  <loc>https://www.tanujnagpal.tech/2019/exploring-cpp/</loc>
   </url>
   <url>
-  <loc>http://www.tanujnagpal.tech/Tesla-website-template/</loc>
+  <loc>https://www.tanujnagpal.tech/Tesla-website-template/</loc>
   </url>
 </urlset>

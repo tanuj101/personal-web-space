@@ -4,7 +4,7 @@
       <img align="right" class="dp" src="../../assets/DSC_0160 (1).jpg" width="128" />
     </p>
     <p>Hello. My name is Tanuj Nagpal.</p>
-    <p>I'm a computer science student with a passion for technology.</p>
+    <p>I'm a computer science student.</p>
     <p>
       During the past 1 year I've worked with
       <a

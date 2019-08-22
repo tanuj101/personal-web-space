@@ -2,13 +2,14 @@ module.exports = {
   /*
    ** Headers of the page
    */
-  modules: ["@nuxtjs/markdownit"],
+  modules: ["@nuxtjs/markdownit", "@nuxtjs/pwa"],
   head: {
-    title: "Tanuj Nagpal",
+    title: "Tanuj's Blog",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: "Nuxt.js project" }
+      { hid: "description", name: "description", content: "Nuxt.js project" },
+      { name: "Tanuj's Blog" }
     ],
     link: [
       { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
@@ -30,6 +31,16 @@ module.exports = {
   /*
    ** Build configuration
    */
+  // workbox: {
+  //   offlineAnalytics: true,
+  //   offlineStrategy: "CacheFirst",
+  //   preCaching: ["**/*.{html,js,css,png,jpg,woff,woff2,ttf}"]
+  // },
+  manifest: {
+    name: "Tanuj Nagpal's Blog",
+    short_name: "Tanuj's Blog",
+    lang: "en"
+  },
   build: {
     /*
      ** Run ESLint on save
