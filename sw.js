@@ -36,10 +36,6 @@ self.__precacheManifest = [
     "revision": "39b17e79cfa03f0ce88797753f56c892"
   },
   {
-    "url": "_nuxt/3cfb745b3f29c22ad36f.js",
-    "revision": "6e1c5b632d69b2a5efddd8bf50cd4b94"
-  },
-  {
     "url": "_nuxt/55c675731375cf732fcc.js",
     "revision": "f41b8e55c9dd48b12b82f4ef76c7734f"
   },
@@ -52,6 +48,10 @@ self.__precacheManifest = [
     "revision": "e806c57fb86c1fe11d158dc9094a5eec"
   },
   {
+    "url": "_nuxt/8142b69ac898066ff225.js",
+    "revision": "b50a30f34abdfbced9fb2c68077cf597"
+  },
+  {
     "url": "_nuxt/8764c2274c756ab48ba9.js",
     "revision": "d3bddbcf27328cf516c47fad0605c792"
   },
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "revision": "f2b502933a9768c72b6cc55e1e5317cc"
   },
   {
-    "url": "_nuxt/ab3fb2c89484e76985c7.js",
-    "revision": "6f487484ea8e3c597957f6dce41c65b9"
-  },
-  {
     "url": "_nuxt/ba03fff505ecedcaa807.js",
     "revision": "7c8740aaf4bdf53da4baef8f823e04fd"
+  },
+  {
+    "url": "_nuxt/f5e137b70ced05e8c660.js",
+    "revision": "c07e8599731f6637a5a74cb9f1040a3e"
   },
   {
     "url": "_nuxt/icons/icon_120.02dded.png",
@@ -129,27 +129,27 @@ self.__precacheManifest = [
   },
   {
     "url": "200.html",
-    "revision": "7c917bdc692e2a77cc4dcdab84a8c6a5"
+    "revision": "06890d0589d57285b1a2596783c3b80e"
   },
   {
     "url": "2019/exploring-cpp/index.html",
-    "revision": "9a291c1aba1ba144c632af7bf4b463ba"
+    "revision": "7d35e92fd83d37886cf7e3ead0a1c9c7"
   },
   {
     "url": "2019/intro-to-chmod/index.html",
-    "revision": "c1841f7da64660f294b27506c7c393da"
+    "revision": "de3b78c22d8a6de705d62b2e2986c19e"
   },
   {
     "url": "2019/why-arch-linux/index.html",
-    "revision": "8b8b0181faf7e604a5011a87446b6fb9"
+    "revision": "69362bd4ac75a8ad48519ee51a95d344"
   },
   {
     "url": "about/index.html",
-    "revision": "8cee3b3e9580524d5e7041b099f253d4"
+    "revision": "92c514f952ffb8aa5418afefb5e6b3b8"
   },
   {
     "url": "about/instantpost/index.html",
-    "revision": "7184cf9dd3ab0f5c599cecfcbec34b01"
+    "revision": "c831d38314c1d800cd63c3c4bed7ea11"
   },
   {
     "url": "favicon.ico",
@@ -165,11 +165,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "1ad37b1f92b37b74185f6ef44451dca3"
+    "revision": "d61bed323d6918ec0c2ee7aed3e674e7"
   },
   {
     "url": "projects/index.html",
-    "revision": "1b43b6853493f26a57d848564d683169"
+    "revision": "8928e1e01dac97a1294f70d70c297f6e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
