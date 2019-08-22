@@ -24,44 +24,76 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "_nuxt/09ad0d11902e5e080c8e.js",
-    "revision": "ae2c459be3d3492fac52baac49ff1245"
+    "url": "_nuxt/18ce361314b7321a0ac1.js",
+    "revision": "5892eacc4530002934dd9d23f1849c9c"
   },
   {
-    "url": "_nuxt/16181f98c118da912887.js",
-    "revision": "82fb5f4533b12d62f772fef523f5c592"
+    "url": "_nuxt/259b65a1deb1b6cf8778.js",
+    "revision": "56837132e9ba1c7052649ac32adee2c7"
   },
   {
-    "url": "_nuxt/1af25cdaa7ef91e2b32c.js",
-    "revision": "75617ffd1514656d7ddf480edfefe840"
+    "url": "_nuxt/26cbfd2301fd675a01a2.js",
+    "revision": "39b17e79cfa03f0ce88797753f56c892"
   },
   {
-    "url": "_nuxt/2d6f6603044050b881ab.js",
-    "revision": "a302ed0404f3f86322abbefedfbd26f1"
+    "url": "_nuxt/3cfb745b3f29c22ad36f.js",
+    "revision": "6e1c5b632d69b2a5efddd8bf50cd4b94"
   },
   {
-    "url": "_nuxt/88c251b5372952d3b9dd.js",
-    "revision": "2fa4c80be05aa129debe062b00918f82"
+    "url": "_nuxt/55c675731375cf732fcc.js",
+    "revision": "f41b8e55c9dd48b12b82f4ef76c7734f"
   },
   {
-    "url": "_nuxt/ab24cdad04f7cf83f518.js",
-    "revision": "c22baafe16d9e7d5637f6fb86ad990fe"
+    "url": "_nuxt/75ba3f0c6527479376a9.js",
+    "revision": "937ee07acd0171d8791dfc642453ec98"
   },
   {
-    "url": "_nuxt/aec5eb5af70a3ce85641.js",
-    "revision": "97944d149e08741c7b38e6459ecfd295"
+    "url": "_nuxt/7c8b52ca74f4899f3938.js",
+    "revision": "e806c57fb86c1fe11d158dc9094a5eec"
   },
   {
-    "url": "_nuxt/c888a4618e948c4bc83b.js",
-    "revision": "8dd9726521395e9af04a9239f9d1626d"
+    "url": "_nuxt/8764c2274c756ab48ba9.js",
+    "revision": "d3bddbcf27328cf516c47fad0605c792"
   },
   {
-    "url": "_nuxt/ce9d342a175e4b1f9310.js",
-    "revision": "1ef3c1ea2f77c31953cf39dc94402335"
+    "url": "_nuxt/997c640584d4437d71e2.js",
+    "revision": "f2b502933a9768c72b6cc55e1e5317cc"
   },
   {
-    "url": "_nuxt/fe77a4eeb98a35d29090.js",
-    "revision": "62061a4787b0b36c0ff2b36cd69a044b"
+    "url": "_nuxt/ab3fb2c89484e76985c7.js",
+    "revision": "6f487484ea8e3c597957f6dce41c65b9"
+  },
+  {
+    "url": "_nuxt/ba03fff505ecedcaa807.js",
+    "revision": "7c8740aaf4bdf53da4baef8f823e04fd"
+  },
+  {
+    "url": "_nuxt/icons/icon_120.02dded.png",
+    "revision": "5e47278a85737d8de78d40b5dc67c667"
+  },
+  {
+    "url": "_nuxt/icons/icon_144.02dded.png",
+    "revision": "6c65860c12374285c5bced614fc64006"
+  },
+  {
+    "url": "_nuxt/icons/icon_152.02dded.png",
+    "revision": "e3112d917bd3ef9c5482dbcd283ba2be"
+  },
+  {
+    "url": "_nuxt/icons/icon_192.02dded.png",
+    "revision": "dc887e8eb6a15d420b390d2dc56151ac"
+  },
+  {
+    "url": "_nuxt/icons/icon_384.02dded.png",
+    "revision": "39e01daa7cec40a11bcde13c11e780b0"
+  },
+  {
+    "url": "_nuxt/icons/icon_512.02dded.png",
+    "revision": "2907a7522b6b008f0e2264c4fcdada17"
+  },
+  {
+    "url": "_nuxt/icons/icon_64.02dded.png",
+    "revision": "d9515a1aba13e0dbd8233b12c60eb8f2"
   },
   {
     "url": "_nuxt/img/279c2b9.jpg",
@@ -97,27 +129,27 @@ self.__precacheManifest = [
   },
   {
     "url": "200.html",
-    "revision": "504d81d09a1ae706eb7e9356e943b0cb"
+    "revision": "7c917bdc692e2a77cc4dcdab84a8c6a5"
   },
   {
     "url": "2019/exploring-cpp/index.html",
-    "revision": "8b879732a3d1f7500658982934a9197b"
+    "revision": "9a291c1aba1ba144c632af7bf4b463ba"
   },
   {
     "url": "2019/intro-to-chmod/index.html",
-    "revision": "ea31a859e5e1e6fc57b317d4a962a569"
+    "revision": "c1841f7da64660f294b27506c7c393da"
   },
   {
     "url": "2019/why-arch-linux/index.html",
-    "revision": "65d80dd2cba476674f0fafa6a02abc67"
+    "revision": "8b8b0181faf7e604a5011a87446b6fb9"
   },
   {
     "url": "about/index.html",
-    "revision": "2ba60ec5fbd6016b11c24444c8c89322"
+    "revision": "8cee3b3e9580524d5e7041b099f253d4"
   },
   {
     "url": "about/instantpost/index.html",
-    "revision": "9c3426b8b6eae56f1e7be77f91de6587"
+    "revision": "7184cf9dd3ab0f5c599cecfcbec34b01"
   },
   {
     "url": "favicon.ico",
@@ -133,11 +165,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "28f5dce60936fdf78c25ab9e25dbc722"
+    "revision": "1ad37b1f92b37b74185f6ef44451dca3"
   },
   {
     "url": "projects/index.html",
-    "revision": "c7b7eac911192feab2529885537de2be"
+    "revision": "1b43b6853493f26a57d848564d683169"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
