@@ -13,7 +13,6 @@
             <div class="modal-footer">
               <button class="pure-material-button-contained" @click="$emit('close')">Close</button>
               <button
-                v-bind:disabled="message === ''"
                 class="pure-material-button-contained"
                 @click="submitMsg"
               >SUBMIT</button>
