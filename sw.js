@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "revision": "d3bddbcf27328cf516c47fad0605c792"
   },
   {
-    "url": "_nuxt/ba03fff505ecedcaa807.js",
-    "revision": "7c8740aaf4bdf53da4baef8f823e04fd"
-  },
-  {
     "url": "_nuxt/c4d98e5ec021eb5a0253.js",
     "revision": "6f6231ca5a16d0e99325636c86d7f68e"
+  },
+  {
+    "url": "_nuxt/c7595bc31ed7308e8791.js",
+    "revision": "de331893b69c17df925d3230704893f8"
   },
   {
     "url": "_nuxt/cd080533fe54beb8395b.js",
@@ -129,27 +129,27 @@ self.__precacheManifest = [
   },
   {
     "url": "200.html",
-    "revision": "1a674224bf30358474b0fee4ba32344a"
+    "revision": "487218a3f8292d83c7068ad12eacdb24"
   },
   {
     "url": "2019/exploring-cpp/index.html",
-    "revision": "4618751e07b2cd3280af9cbb3c56df90"
+    "revision": "f6568d58563302de426e98a9036421a5"
   },
   {
     "url": "2019/intro-to-chmod/index.html",
-    "revision": "87b947a9d285e88d9ecf1c8fb28ff40e"
+    "revision": "c51d454a9f8e41a37e5e830f91a76f82"
   },
   {
     "url": "2019/why-arch-linux/index.html",
-    "revision": "38d13abe1f9f9386f0aeb4de47e35bf5"
+    "revision": "fc5ca0ab23fd027f0a5bc2598e3f6daa"
   },
   {
     "url": "about/index.html",
-    "revision": "58237617b815f17602860692c936ea06"
+    "revision": "d645e5b2fc2e413da25b86c4086cd807"
   },
   {
     "url": "about/instantpost/index.html",
-    "revision": "b6a66e35232feaf2a62b35e736580643"
+    "revision": "551a40e68869b097e9011916b909788a"
   },
   {
     "url": "favicon.ico",
@@ -165,11 +165,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "de138546935823a8e20166d4bbddaf4c"
+    "revision": "11dfc9a801639cdb82298bed3be973a4"
   },
   {
     "url": "projects/index.html",
-    "revision": "a2c6ede4efdde5435e0926fc2548e38b"
+    "revision": "b2cd79f659218bb40c0bfb1bab0f08ca"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
