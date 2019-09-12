@@ -24,16 +24,12 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "_nuxt/042819006c4554b1d4cd.js",
-    "revision": "068e9370398285c8050ad95c5dfeb486"
-  },
-  {
     "url": "_nuxt/259b65a1deb1b6cf8778.js",
     "revision": "56837132e9ba1c7052649ac32adee2c7"
   },
   {
-    "url": "_nuxt/6e1903efdce6f43fa173.js",
-    "revision": "81fdba7b9327c2c46be015da7a68a7a5"
+    "url": "_nuxt/2dac30e035cb54414877.js",
+    "revision": "88a4bc8cf4513f9939dc4c2425eb5dad"
   },
   {
     "url": "_nuxt/6fcdfe55e8a0a0b051e1.js",
@@ -66,6 +62,10 @@ self.__precacheManifest = [
   {
     "url": "_nuxt/f720e2830cdf0256ccd3.js",
     "revision": "caf382ba684586311bb76e1a97223f17"
+  },
+  {
+    "url": "_nuxt/f93fb8a4bb41474fb44c.js",
+    "revision": "ca9481881c4618c17dcb3664a69efc51"
   },
   {
     "url": "_nuxt/icons/icon_120.02dded.png",
@@ -129,27 +129,27 @@ self.__precacheManifest = [
   },
   {
     "url": "200.html",
-    "revision": "dfe9f0159b56f0637e2f4d6dc726f81a"
+    "revision": "b1e0273ba4639b6acf5bf17514f4160a"
   },
   {
     "url": "2019/exploring-cpp/index.html",
-    "revision": "754298845986b3c73407d5145fa07106"
+    "revision": "e6f95df2cc692b789952aac7ff9caf14"
   },
   {
     "url": "2019/intro-to-chmod/index.html",
-    "revision": "a191639bd834a49efdfb3835aa898c34"
+    "revision": "2db2d0fa46719b1c5b189739e39eb1a7"
   },
   {
     "url": "2019/why-arch-linux/index.html",
-    "revision": "dcb01e9e0903748f06730efcb981dbbe"
+    "revision": "3a9af02f8c000a03fb34310f250a48a6"
   },
   {
     "url": "about/index.html",
-    "revision": "16a5810c6d82cc3b6c8de607d3972d17"
+    "revision": "29d4edc4f09631d7e7830c35cec4471a"
   },
   {
     "url": "about/instantpost/index.html",
-    "revision": "d83f20aa6499abc9eb448146be2c4fe9"
+    "revision": "203046d0896b3d2e7a1895fbc0d7865b"
   },
   {
     "url": "favicon.ico",
@@ -165,11 +165,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "f667978b96e7028b2e83a42c24a723bd"
+    "revision": "e63d7c5071017b4fc6412559255e0e47"
   },
   {
     "url": "projects/index.html",
-    "revision": "d53d7e063c8e80c8d6c4c178520d45f8"
+    "revision": "df1ecbd9b3861a394c8fd67eddfe0537"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
