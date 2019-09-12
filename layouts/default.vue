@@ -2,7 +2,7 @@
   <div id="app">
     <nav>
       <nuxt-link class="logo" to="/">
-        <h1 title="Home" class="logo-text">T</h1>
+        <div title="Home" class="logo-text">T</div>
       </nuxt-link>
       <ul class="navigation">
         <li v-show="!(this.$route.fullPath == '/')">
@@ -60,6 +60,11 @@ li a {
   position: relative;
 }
 .logo-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 12px;
+  font-weight: 600;
   font-family: "Cormorant";
   font-size: 2rem;
 }

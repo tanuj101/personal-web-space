@@ -22,9 +22,9 @@
       >asynchronous</a> code can cause a lot of
       <code>undefined(s)</code>. Well these were my personal annoyances.
       <img
+        alt="some meme about arch Linux"
         class="paragraph-img"
         src="../../../assets/cpp_meme.jpg"
-        alt
       />
       <p>
         Some might say why I'm so against JavaScript but here is the thing I might be wrong but it's my personal opinion it is what I think. Now I'm not very intrested in learning programming languages without
@@ -76,13 +76,13 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "My first programming language was The infamous JavaScript. Don't blame me for that. It all started way back in my first semester. I never really developed any interest in C which was being taught at that time..."
+          "My first programming language was The infamous JavaScript. Don't blame me for that. It all started way back in my first semester. I never really developed any interest in C which was being taught at that time, I had my reasons. Somehow got into web development and In web you can't just avoid JavaScript"
       },
       {
         hid: "og:description",
         name: "og:description",
         content:
-          "My first programming language was The infamous JavaScript. Don't blame me for that. It all started way back in my first semester. I never really developed any interest in C which was being taught at that time..."
+          "My first programming language was The infamous JavaScript. Don't blame me for that. It all started way back in my first semester. I never really developed any interest in C which was being taught at that time, I had my reasons. Somehow got into web development and In web you can't just avoid JavaScript"
       },
       {
         hid: "og:url",

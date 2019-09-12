@@ -16,7 +16,12 @@
     <p>My journey could have ended in earlier but I was given this amazing opportunity to extend my stay for more than the original duration which is still continuing at the time of writing this post.</p>
     <br />
     <h2>InstantPost</h2>
-    <img class="paragraph-img" title="InstantPost" src="../../../assets/instantpost.jpg" />
+    <img
+      alt="InstantPost Printers and Scanners Pvt. Ltd."
+      class="paragraph-img"
+      title="InstantPost"
+      src="../../../assets/instantpost.jpg"
+    />
     <br />
     <br />I'll be sharing more as I continue my journey here. Cheers!
     <br />

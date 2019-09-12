@@ -61,7 +61,7 @@
       <b>JUST STUPID</b>" or "WHY CAN'T YOU HAVE AN AUTOMATIC INSTALLER". Why not just use
       <b>Ubuntu</b> or anything like that. which is fine. If you wanna do that but there's a big difference that makes you think about system.
     </p>
-    <p>If you install everything from the desktop manager or a window manager or whta display manager to install or the boot loader. You'd read up on it in the process of installing it then you know whats on your system, you know where the pieces are going together so what happens is hypothatically if something breaks on your system (which frankly on Arch, things don't spontanously break) if you have gone through that minimal install process you know whats going on you dont have to look it up on stackoverflow or something and it's not a big problem if something happens in a way you don't expect.</p>
+    <p>If you install everything from the desktop manager or a window manager or what display manager to install or the boot loader. You'd read up on it in the process of installing it then you know whats on your system, you know where the pieces are going together so what happens is hypothatically if something breaks on your system (which frankly on Arch, things don't spontanously break) if you have gone through that minimal install process you know whats going on you dont have to look it up on stackoverflow or something and it's not a big problem if something happens in a way you don't expect.</p>
     <p>
       Another great thing about Arch is the
       <a
@@ -72,7 +72,8 @@
     <p>I know all the Linux Distros are the same I hold by that, I am not telling anyone to switch to Arch Linux. Doesn't matter what you use Doesn't mean it makes a difference. If you're used to using whatever system you use, that's fantastic. Just dont't fall for the meme it is not a difficult to use distro. Arch is literally where I stopped distro hopping which I used to to because I found a distro where I didn't have to think about what I'm running I just think about what i've installed on my computer and how easily I can change.</p>
     <p></p>
     <p>
-      At last thank you for reading this and if you have any kind of feedback feel free to hit on this <i>anonymous</i>
+      At last thank you for reading this and if you have any kind of feedback feel free to hit on this
+      <i>anonymous</i>
       <FeedbackLink />link.
     </p>
     <b>TL;DR</b>
@@ -102,14 +103,15 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "In general Distros matter when you usually talk about GNU/Linux but all things considered I think there is one distribution that I think is a little special and that is Arch Linux"
+          "In general Distros matter when you usually talk about GNU/Linux but all things considered I think there is one distribution that I think is a little special and that is Arch Linux, Despite the fact the initial hurdles in the manual installation process which actually does a good favour(Which is discussed later) to you"
       },
       {
         hid: "og:description",
         name: "og:description",
         content:
-          "In general Distros do not matter when you usually talk about Linux but all things considered I think there might be one particular distro that I think is a litle special and that is..."
+          "In general Distros do not matter when you usually talk about Linux but all things considered I think there might be one particular distro that I think is a litle special and that is Arch Linux, Despite the fact the initial hurdles in the manual installation process which actually does a good favour(Which is discussed later) to you"
       },
+      ,
       {
         hid: "og:url",
         property: "og:url",

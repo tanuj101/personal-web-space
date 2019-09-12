@@ -1,7 +1,13 @@
 <template>
   <div>
     <p>
-      <img align="right" class="dp" src="../../assets/DSC_0160 (1).jpg" width="128" />
+      <img
+        alt="Tanuj Nagpal"
+        align="right"
+        class="dp"
+        src="../../assets/DSC_0160 (1).jpg"
+        width="128"
+      />
     </p>
     <p>Hello. My name is Tanuj Nagpal.</p>
     <p>I'm a computer science student.</p>
@@ -41,14 +47,14 @@
     </p>
     <div class="flex-row">
       <a title="Old Rice" target="_blank" href="https://github.com/Tanuj69/dotfiles">
-        <img height="140" src="../../assets/rice1.jpeg" alt />
+        <img alt="Linux customization" height="140" src="../../assets/rice1.jpeg" />
       </a>
       <a
         title="Cricket update notifier"
         target="_blank"
         href="https://github.com/Tanuj69/IPL-Live-updates"
       >
-        <img height="140" width="190" src="../../assets/ipl.jpeg" alt />
+        <img alt="Linux customization" height="140" width="190" src="../../assets/ipl.jpeg" />
       </a>
       <a href="https://github.com/Tanuj69/dotfiles" target="_blank">
         <video height="140" width="190" src="../../assets/workspace.mp4" controls autoplay loop></video>

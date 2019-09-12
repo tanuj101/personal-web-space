@@ -8,7 +8,7 @@ module.exports = {
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: "Nuxt.js project" },
+      { name: "msvalidate.01", content: "014B7B34B19895BC9F265732F07E4E31" },
       { name: "Tanuj's Blog" }
     ],
     link: [

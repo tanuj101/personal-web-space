@@ -38,13 +38,13 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "A Unix/Linux command to change the access permissions of Files and Directories through command line, How can you use it and where will you use it. I never really tried...."
+          "A Unix/Linux command to change the access permissions of Files and Directories through command line, Before the actual understanding I never really tried how chmod works but I've used it nevertheless for various purposes like running a shell script , changing permissions of an..."
       },
       {
         hid: "og:description",
         name: "og:description",
         content:
-          "A Unix/Linux command to change the access permissions of Files and Directories through command line, How can you use it and where will you use it. I never really tried...."
+          "A Unix/Linux command to change the access permissions of Files and Directories through command line, Before the actual understanding I never really tried how chmod works but I've used it nevertheless for various purposes like running a shell script , changing permissions of an..."
       },
       {
         hid: "og:url",
