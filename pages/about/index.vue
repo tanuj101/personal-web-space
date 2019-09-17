@@ -30,7 +30,7 @@
     <p>
       In my spare time I enjoy
       <a
-        href="https://github.com/tanuj69"
+        href="https://github.com/tanuj101"
         target="_blank"
       >dabbling with softwares</a> projects, exploring about
       <a
@@ -88,7 +88,7 @@
     <h2>etc</h2>
     <ul>
       <li>
-        <a target="_blank" href="https://www.linkedin.com/in/tanuj69/">LinkedIn</a> — say hi
+        <a target="_blank" href="https://www.linkedin.com/in/tanuj101/">LinkedIn</a> — say hi
       </li>
       <li>
         <a target="_blank" href="https://github.com/tanuj69">Github</a> — code.
