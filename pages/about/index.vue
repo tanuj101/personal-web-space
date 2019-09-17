@@ -42,21 +42,21 @@
       my GNU/Linux environment. Here are my
       <a
         target="_blank"
-        href="https://github.com/Tanuj69/dotfiles"
+        href="https://github.com/Tanuj101/dotfiles"
       >dotfiles</a> or configs you may say just in case. My laptop is not top notch or high config and also I like minimalism to things around me so I keep my Desktop environment like this, below is some description about it.
     </p>
     <div class="flex-row">
-      <a title="Old Rice" target="_blank" href="https://github.com/Tanuj69/dotfiles">
+      <a title="Old Rice" target="_blank" href="https://github.com/Tanuj101/dotfiles">
         <img alt="Linux customization" height="140" src="../../assets/rice1.jpeg" />
       </a>
       <a
         title="Cricket update notifier"
         target="_blank"
-        href="https://github.com/Tanuj69/IPL-Live-updates"
+        href="https://github.com/Tanuj101/IPL-Live-updates"
       >
         <img alt="Linux customization" height="140" width="190" src="../../assets/ipl.jpeg" />
       </a>
-      <a href="https://github.com/Tanuj69/dotfiles" target="_blank">
+      <a href="https://github.com/Tanuj101/dotfiles" target="_blank">
         <video height="140" width="190" src="../../assets/workspace.mp4" controls autoplay loop></video>
       </a>
     </div>
@@ -67,7 +67,7 @@
         target="_blank"
       >fish</a> as a replacement to bash because it serves me well and my custom
       <a
-        href="https://github.com/Tanuj69/st"
+        href="https://github.com/Tanuj101/st"
         target="_blank"
       >st</a> build as a terminal because of it's lightness and speed
     </p>
@@ -91,7 +91,7 @@
         <a target="_blank" href="https://www.linkedin.com/in/tanuj101/">LinkedIn</a> — say hi
       </li>
       <li>
-        <a target="_blank" href="https://github.com/tanuj69">Github</a> — code.
+        <a target="_blank" href="https://github.com/tanuj101">Github</a> — code.
       </li>
       <li>
         <a href="https://novoresume.com/a/tanujnagpal999.1" target="_blank">CV</a> — know more
