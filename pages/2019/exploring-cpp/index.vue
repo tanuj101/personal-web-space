@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1 class="blog-heading">Exploring C++</h1>
-    <div>My first programming language was The infamous JavaScript. Don't blame me for that. It all started way back in my first semester. I never really developed any interest in C which was being taught at that time, I had my reasons. Somehow got into web development and In web you can't just avoid JavaScript.</div>
+    <p>My first programming language was The infamous JavaScript. Don't blame me for that. It all started way back in my first semester. I never really developed any interest in C which was being taught at that time, I had my reasons. Somehow got into web development and In web you can't just avoid JavaScript.</p>
     <br />
     <div>
       I've been working with JavaScript for more than a year now, I really liked JavaScript but While I was in some programming communities(

@@ -25,6 +25,7 @@
 </template>
 
 <script>
+// import Prism from "prismjs";
 export default {
   components: {}
 };
@@ -52,6 +53,8 @@ li a {
 }
 </style>
 <style>
+/* @import url("@@/node_modules/prismjs/themes/prism.css"); */
+/* @import url("@@/node_modules/prismjs/themes/prism-okaidia.css"); */
 .nuxt-link-active {
   color: #000 !important;
 }

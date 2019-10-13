@@ -16,11 +16,7 @@
       <a
         target="_blank"
         href="https://instantpost.in"
-      >InstantPost</a> as an Intern writing an
-      <a
-        target="_blank"
-        href="https://youtu.be/hxY01RQR69w?t=853"
-      >automation software</a>.
+      >InstantPost</a> as an Intern where I've my major work have been on an automation software.
       <!-- Find out more on
       <a href="https://www.linkedin.com/in/tanuj69/">LinkedIn</a>.-->
     </p>
