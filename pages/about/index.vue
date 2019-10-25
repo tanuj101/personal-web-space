@@ -12,17 +12,16 @@
     <p>Hello. My name is Tanuj Nagpal.</p>
     <p>I'm a computer science student.</p>
     <p>
-      During the past 1 year I've worked with
-      <a
-        target="_blank"
-        href="https://instantpost.in"
-      >InstantPost</a> as an Intern where I've my major work have been on an automation software.
+      I'm working with
+      <a target="_blank" href="https://instantpost.in">InstantPost</a> as an Intern where my major work have been on an automation software so far.
+      <br />
+      <b>[UPDATES]</b> - I'd expectantly be joining fulltime by end of my graduation
       <!-- Find out more on
       <a href="https://www.linkedin.com/in/tanuj69/">LinkedIn</a>.-->
     </p>
-    <p>
+    <!-- <p>
       <nuxt-link to="/about/instantpost">Read more about my work with InstantPost →</nuxt-link>
-    </p>
+    </p>-->
     <p>
       In my spare time I enjoy
       <a
@@ -73,14 +72,13 @@
       <a
         href="https://github.com/nuxt"
         target="_blank"
-      >nuxt.js</a> which is built on the top of Vue to get hands on experience with how server side pages web pages can be generated from a component-based web app with full SEO support and client side routing solely on front-end. Further if anyone would like to see the source code of this website just drop me a message I'd clean up the code and make it free on Github. I didn't do it yet because I'm lazy and really need a reason ;p. Anyway if you have any kind of feedpack feel free to click on this
+      >nuxt.js</a> which is built on the top of Vue to get hands on experience with how server side pages web pages can be generated from a component-based web app with full SEO support and client side routing on front-end only as it is hosted on github pages. Anyway if you have any kind of feedpack feel free to click on this
       <i>anonymous</i>
       <FeedbackLink />link.
     </p>
     <p
       style="border-bottom:1px solid #eee;padding-bottom:40px"
     >Gaming also used to be a big part of my life, but has lately taken a back seat as a past time hobby as I discovered more exciting things. I played FPS Games like Call of Duty(Most of the segments), TPP games like Tomb Raider, Mad Max and a strategic game which by far I've played the most Clash of Clans.</p>
-
     <h2>etc</h2>
     <ul>
       <li>

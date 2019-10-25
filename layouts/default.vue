@@ -27,7 +27,46 @@
 <script>
 // import Prism from "prismjs";
 export default {
-  components: {}
+  components: {},
+  meta: [
+    {
+      hid: "description",
+      name: "description",
+      content:
+        "Hello. My name is Tanuj Nagpal. I'm an Indian maker-of-software with a passion for technology. During the past 1 year I've worked with...."
+    },
+    {
+      hid: "og:description",
+      name: "og:description",
+      content:
+        "Hello. My name is Tanuj Nagpal. I'm an Indian maker-of-software with a passion for technology. During the past 1 year I've worked with...."
+    },
+    {
+      hid: "og:url",
+      property: "og:url",
+      content: "www.tanujnagpal.tech/about"
+    },
+    {
+      hid: "og:type",
+      property: "og:type",
+      content: "article"
+    },
+    {
+      hid: "og:site_name",
+      property: "og:site_name",
+      content: "tanujnagpal.tech"
+    },
+    {
+      "http-equiv": "Content-Type",
+      content: "text/html",
+      charset: "utf-8"
+    },
+    {
+      "http-equiv": "Content-Type",
+      content: "text/html",
+      charset: "ISO-8859-1"
+    }
+  ]
 };
 </script>
 

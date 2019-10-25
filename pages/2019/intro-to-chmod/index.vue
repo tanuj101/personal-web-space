@@ -68,6 +68,7 @@ export default {
       },
       {
         hid: "Keywords",
+        name: "keywords",
         content: "chmod,unix,shell,linux,shell scripts"
       }
     ]

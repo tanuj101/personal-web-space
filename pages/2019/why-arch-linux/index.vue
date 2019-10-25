@@ -134,6 +134,7 @@ export default {
       },
       {
         hid: "Keywords",
+        name: "keywords",
         content:
           "Linux,Arch Linux,how to install Arch,Unix,GNU/Linux,why install arch?,should I install arch?"
       }

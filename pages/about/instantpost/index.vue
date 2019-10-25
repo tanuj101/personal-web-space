@@ -69,7 +69,9 @@ export default {
       },
       {
         hid: "keywords",
-        content: "Instantpost,instantpost printers,instantpost free photos"
+        name: "keywords",
+        content:
+          "Instantpost,instantpost printers,instantpost free photos, Tanuj Nagpal Instantpost"
       }
     ]
   }
