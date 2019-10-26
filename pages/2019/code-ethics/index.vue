@@ -2,7 +2,7 @@
   <div>
     <h1 class="blog-heading">Code Ethics</h1>
     <p>One thing that I've learnt from past few weeks is the importance of code readability and some other fairly useful fundamentals.</p>
-    <p>The widely ignored factor whilst coding a program is readability. Code is for humans afterall. Code should be pleasing to read not a burden. There's no point in having concise code if people don't understand it, particularly when working with multiple people (which is the case most of the time)</p>
+    <p>The widely ignored factor whilst coding a program is readability. Code is for humans afterall. The Code should be pleasing to read not a burden. There's no point in having concise code if people don't understand it, particularly when working with multiple people (which is the case most of the time)</p>
     <h3>Motive after code?</h3>
     <div>
       The primary motive behind your code is to compile successfully but what you've been told is wrong apparently. Believe me anyone can write code that a computer understand, writing code that humans can understand is the way to go. Code that is unreadable by other engineers even if it functions, is bad code.
