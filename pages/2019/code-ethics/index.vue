@@ -85,7 +85,7 @@
         </pre>
         <div>
           Now suppose someone wants to make a change in
-          <b>#Some lines</b>(say), they just don't want to huge see the huge chunk of code which is inside our method doSomeComplexCalculations because it's really irrelevant to them in this case. Seeing it might cause confusion or maybe scare them :p who knows! we don't have slightest idea know who'd deal with the code in future.
+          <b>#Some lines</b>(say), they just don't want to huge see the huge chunk of code which is inside our method doSomeComplexCalculations because it's really irrelevant to them in this case. Seeing it might cause confusion or maybe scare them :p who knows! we don't have slightest idea who'd deal with the code in future.
         </div>
       </div>
     </div>

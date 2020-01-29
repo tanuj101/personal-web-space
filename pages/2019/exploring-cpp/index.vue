@@ -40,7 +40,7 @@
       <h2>Enough about Javascript</h2>
       <p>I kept on going and going with it without any second thoughts until one day I discovered C++ during this summer break June-July 2019. Honestly speaking one wouldn't like JavaScript who knows about C++ or any C-look-a-likes Java,Rust etc.. Although we can't compare C++ and JavaScript because they simply come into use in different cases and it is not really fair to compare them But I'm talking about elegancy of a general programming language, C++ is very elegant in terms of generalizing all the programming languages and I think that it should be the programming language one should learn first but that's my opinion if you're working with something different that is totally fine.</p>
       <p>
-        Maybe I'm still a beginner to it but so far my experience have been great . It is certainly a big language but new comers should just ignore the more advanced features those can come later. Learning about the
+        Maybe I'm still a beginner to it but so far my experience have been great .It is certainly a big language but new comers should just ignore the more advanced features those can come later. Learning about the
         <a
           href="http://www.cplusplus.com/reference/stl/"
           target="_blank"
@@ -52,7 +52,7 @@
           href="https://codechef.com"
           target="_blank"
         >CodeChef</a>
-        which I found fun and important you might as well say that, as you get to know about designing algorithms too. I feel this helps me to improve my problem solving ability to a great extent while also telling me more about the language itself but anyway I only started C++ as I found it intresting I try any random problem whenever I'm free. This way I get to know more features of C++ as well. Who knows in near future I get to work with C++ in a real software or something like that.
+        which I found fun and important you might as well say that, as you get to know about designing algorithms too. I feel this helps me to improve my problem solving ability to a great extent while also telling me more about the language itself but anyway I only started C++ as I found it interesting I try any random problem whenever I'm free. This way I get to know more features of C++ as well. Who knows in near future I get to work with C++ in a real software or something like that.
       </p>
       <p>
         At last thank you for reading this and if you have any kind of feedback feel free to hit on this

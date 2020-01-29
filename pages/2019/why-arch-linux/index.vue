@@ -92,12 +92,12 @@
 <script>
 import FeedbackLink from "@@/components/FeedbackLink";
 export default {
-  name: "why-arch-linux",
   components: {
     FeedbackLink
   },
+  name: "",
   head: {
-    title: "why arch linux?",
+    title: "Why Arch Linux?",
     meta: [
       {
         hid: "description",
@@ -111,7 +111,6 @@ export default {
         content:
           "In general Distros do not matter when you usually talk about Linux but all things considered I think there might be one particular distro that I think is a litle special and that is Arch Linux, Despite the fact the initial hurdles in the manual installation process which actually does a good favour(Which is discussed later) to you"
       },
-      ,
       {
         hid: "og:url",
         property: "og:url",
@@ -130,7 +129,7 @@ export default {
       {
         hid: "og:title",
         property: "og:title",
-        content: "Why Arch Linux?"
+        content: "why arch linux"
       },
       {
         hid: "Keywords",
