@@ -6,7 +6,7 @@
           <h3 class>{{post.title}}</h3>
           <p>
             {{post.description}}
-            <span datetime>{{post.date}}</span>
+            <!-- <span datetime>{{post.date}}</span> -->
           </p>
         </div>
       </nuxt-link>
