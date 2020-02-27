@@ -1,32 +1,42 @@
-{
-    "2019": [
-        {
-            "id": "code-ethics",
-            "date": "October 2019",
-            "title": "Code Ethics",
-            "description": "One thing that I've learnt from past few weeks is the importance of code readability and some other fairly useful fundamentals. The widely ignored factor whilst coding...",
-            "isArchieved": false
-        },
-        {
-            "id": "exploring-cpp",
-            "date": "August 2019",
-            "title": "Exploring C++",
-            "description": "My first programming language was The infamous JavaScript. Don't blame me for that. It all started way back in my first semester. I never really developed any interest in C which was being taught at that time...",
-            "isArchieved": false
-        },
-        {
-            "id": "why-arch-linux",
-            "date": "June 2019",
-            "title": "Why arch?",
-            "description": "In general Linux Distros do not matter when you usually talk about it but all things considered I think there might be one particular distro that I think is a little special for me atleast and that is...",
-            "isArchieved": false
-        },
-        {
-            "id": "intro-to-chmod",
-            "date": "April 2019",
-            "title": "Introduction to chmod",
-            "description": "A Unix/Linux command to change the access permissions of Files and Directories, How I learnt about it. How can you use it and where will you use it...",
-            "isArchieved": false
-        }
-    ]
-}
+[
+    {
+        "id": "bash",
+        "month": "February",
+        "year": 2020,
+        "title": "Bash your way through!",
+        "description": "",
+        "isArchieved": false
+    },
+    {
+        "id": "code-ethics",
+        "month": "October",
+        "year": 2019,
+        "title": "Code Ethics",
+        "description": "One thing that I've learnt from past few weeks is the importance of code readability and some other fairly useful fundamentals. The widely ignored factor whilst coding...",
+        "isArchieved": false
+    },
+    {
+        "id": "exploring-cpp",
+        "month": "August",
+        "title": "Exploring C++",
+        "year": 2019,
+        "description": "My first programming language was The infamous JavaScript. Don't blame me for that. It all started way back in my first semester. I never really developed any interest in C which was being taught at that time...",
+        "isArchieved": false
+    },
+    {
+        "id": "why-arch-linux",
+        "month": "June",
+        "year": 2019,
+        "title": "Why arch?",
+        "description": "In general Linux Distros do not matter when you usually talk about it but all things considered I think there might be one particular distro that I think is a little special for me atleast and that is...",
+        "isArchieved": false
+    },
+    {
+        "id": "intro-to-chmod",
+        "month": "April",
+        "year": 2019,
+        "title": "Introduction to chmod",
+        "description": "A Unix/Linux command to change the access permissions of Files and Directories, How I learnt about it. How can you use it and where will you use it...",
+        "isArchieved": false
+    }
+]

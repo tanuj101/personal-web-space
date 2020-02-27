@@ -152,6 +152,7 @@ nav {
   padding: 5px;
   border-left: 3px solid #333;
   margin: 25px 0px;
+  word-wrap: break-word;
 }
 .link:hover {
   color: #000;

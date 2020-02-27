@@ -13,7 +13,7 @@
     <p>I'm a computer science student.</p>
     <p>
       I'm working with
-      <a target="_blank" href="https://instantpost.in">InstantPost</a> as an Intern where my major work have been on an automation software so far.
+      <a href="/about/instantpost">InstantPost</a> as an Intern where my major work have been on an automation software so far.
       <br />
       <b>[UPDATES]</b> - I'd expectantly be joining fulltime by end of my graduation
       <!-- Find out more on
@@ -27,18 +27,18 @@
       <a
         href="https://github.com/tanuj101"
         target="_blank"
-      >dabbling with softwares</a> projects, exploring about
+      >dabbling with softwares</a> projects, exploring
       <a
         href="https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy"
         target="_blank"
-      >GNU/Linux</a> , building application that no one will ever use haha! I also like
+      >GNU/Linux</a>, building application that no one will ever use haha! I also like
       ricing
       <!-- TODO: Add views on GNU/Linux vs only Linux  -->
       my GNU/Linux environment. Here are my
       <a
         target="_blank"
         href="https://github.com/Tanuj101/dotfiles"
-      >dotfiles</a> or configs you may say just in case. My laptop is not top notch or high config and also I like minimalism to things around me so I keep my Desktop environment like this, below is some description about it.
+      >dotfiles</a> or configs you may say just in case. I like minimalism on things around me so I keep my Desktop environment like this, below is some description about it.
     </p>
     <div class="flex-row">
       <a title="Old Rice" target="_blank" href="https://github.com/Tanuj101/dotfiles">
@@ -64,7 +64,7 @@
       <a
         href="https://github.com/Tanuj101/st"
         target="_blank"
-      >st</a> build as a terminal because of it's lightness and speed
+      >st</a> build as a terminal emulator because of it's lightness and speed
     </p>
     <center></center>
     <p>
