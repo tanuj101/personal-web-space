@@ -11,7 +11,7 @@
       <a
         target="_blank"
         href="https://www.linkedin.com/in/i01000001/"
-      >my mentor</a> who is also the founder of InstantPost is by far the most knowledgeable person I've ever known stood by me and encouraged me. My experience have been fruitful as I've come across many a things which changed the way I think about Tech
+      >my mentor</a> who is also the founder of InstantPost is by far the most knowledgeable person I've ever known stood by me and encouraged me. My experience have been fruitful as I've come across many a things which changed the way I think about Computer Science
     </p>
     <p>My journey could have ended in earlier but I was given this amazing opportunity to extend my stay for more than the original duration which is still continuing at the time of writing this post.</p>
     <br />
