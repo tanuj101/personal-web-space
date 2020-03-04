@@ -7,7 +7,7 @@
         href="https://en.wikipedia.org/wiki/Unix-like"
         target="_blank"
         rel="noopener noreferrer"
-      >unix-like</a> systems mostly used as a scripting utility for automation viz using existing programs to perform tasks.
+      >unix-like</a> systems mostly used as a scripting utility for automation, using existing programs to perform tasks. Moreover it is this language's interpreter that runs when you type on your terminal emulator some example commands are cd, mkdir, ls etc.
     </p>
     <p>We can do a lot with bash, in this instance of writing, an automation for downloading an online video stream is demonstrated. This is just for education purposes only.</p>
     <h3>Finding the resource(video stream) uri</h3>
@@ -31,9 +31,9 @@
         style="margin-top:3px;margin-bottom:5px"
       >https://cdnvideos.geeksforgeeks.org/courses/c9640d9f44fec028c51edd88c2d7acf6gfg-L8-hlsx480p/00000/c9640d9f44fec028c51edd88c2d7acf6gfg-L8-hlsx480p-seg_00020.ts</div>
       <p>
-        The key thing here is to look for pattern in urls of all the network request going out as the video proceeds. In this example I notices the last part just before
+        The key thing here is to look for pattern in urls of all the network request going out as the video proceeds. In this example the last part just before
         <code>.ts</code> i.e 00020 and with seg it made sense for
-        <b>segment 20</b> because that's how streaming happens! sending over the files in segments or packets.
+        <b>segment 20</b> because that's how streaming happens! sending over the files broken down into segments AKA packets.
       </p>
     </div>
   </div>
