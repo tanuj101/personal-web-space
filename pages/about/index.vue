@@ -72,7 +72,7 @@
       <a
         href="https://github.com/nuxt"
         target="_blank"
-      >nuxt.js</a> which is built on the top of Vue to get hands on experience with how server side pages web pages can be generated from a component-based web app with full SEO support and client side routing on front-end only as it is hosted on github pages. Anyway if you have any kind of feedpack feel free to click on this
+      >nuxt.js</a> which is built on the top of Vue to get hands on experience with how server side pages web pages can be generated from a component-based web app with full SEO support and client side routing on front-end only as it is hosted on github pages. Anyway if you have any kind of feedback feel free to click on this
       <i>anonymous</i>
       <FeedbackLink />link.
     </p>
