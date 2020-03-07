@@ -71,29 +71,19 @@
         request.
       </p>
       <div style="display:flex;justify-content:center;">
-        <v-zoomer :maxScale="50" style=" border: solid 1px silver; ">
-          <img alt="some meme about
-        arch Linux" src="../../../assets/bash_copy_as_curl.png" />
-        </v-zoomer>
+        <img-viewer src="/bash_copy_as_curl.png"></img-viewer>
       </div>
       <div>
         First we need to download all the segments for that we can incorporate a
         simple for loop which will keep on increasing the segment number
-        <img-viewer src="/_nuxt/assets/bash_gfg.jpg"></img-viewer>
-        <div style="display:flex;justify-content:center;">
-          <v-zoomer :maxScale="10" style="border: solid 1px silver; ">
-            <img alt="some meme about
-        arch Linux" src="../../../assets/bash_gfg.jpg" />
-          </v-zoomer>
-        </div>
+        <img-viewer src="/bash_gfg.jpg"></img-viewer>
+        <div style="display:flex;justify-content:center;"></div>
       </div>
     </div>
   </div>
 </template>
 <script>
 import Vue from "vue";
-import VueZoomer from "vue-zoomer";
-Vue.use(VueZoomer);
 import Prism from "vue-prismjs";
 import "prismjs/themes/prism.css";
 import FeedbackLink from "@@/components/FeedbackLink.vue";
@@ -105,7 +95,9 @@ export default {
     ImgViewer
   },
   name: "",
-  head: {}
+  head: {
+    title: "Bash your way through"
+  }
 };
 </script>
 <style scoped></style>
