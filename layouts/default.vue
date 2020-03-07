@@ -193,6 +193,9 @@ body {
 ::-webkit-scrollbar {
   width: 0em;
 }
+code::-webkit-scrollbar {
+  width: unset;
+}
 #main {
   padding: 0;
   padding-top: 30px;
@@ -235,4 +238,3 @@ div {
   font-size: 15px;
 }
 </style>
-

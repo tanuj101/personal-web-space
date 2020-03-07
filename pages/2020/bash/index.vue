@@ -7,8 +7,7 @@
         href="https://en.wikipedia.org/wiki/Unix-like"
         target="_blank"
         rel="noopener noreferrer"
-        >unix-like</a
-      >
+      >unix-like</a>
       systems mostly used as a scripting utility for automation, using existing
       programs to perform tasks. It is this language's interpreter that runs
       when you type on your terminal emulator in most GNU/Linux systems some
@@ -37,14 +36,14 @@
       href="https://developers.google.com/web/tools/chrome-devtools/network/reference"
       target="_blank"
       rel="noopener noreferrer"
-      >Reference</a
-    >
+    >Reference</a>
     for the network tab
     <div style="margin-top:10px">
       Example of a stream url:-
-      <div class="question" style="margin:19px 0px;">
-        https://cdnvideos.geeksforgeeks.org/courses/c9640d9f44fec028c51edd88c2d7acf6gfg-L8-hlsx480p/00000/c9640d9f44fec028c51edd88c2d7acf6gfg-L8-hlsx480p-seg_00020.ts
-      </div>
+      <div
+        class="question"
+        style="margin:19px 0px;"
+      >https://cdnvideos.geeksforgeeks.org/courses/c9640d9f44fec028c51edd88c2d7acf6gfg-L8-hlsx480p/00000/c9640d9f44fec028c51edd88c2d7acf6gfg-L8-hlsx480p-seg_00020.ts</div>
       <p>
         The key thing here is to look for pattern in urls of all the network
         request going out as the video proceeds. In this example the last part
@@ -55,7 +54,8 @@
         >
           <code>.ts</code>
         </a>
-        i.e 00020 and with seg it made sense for <b>segment 20</b> because
+        i.e 00020 and with seg it made sense for
+        <b>segment 20</b> because
         that's how streaming happens, sending over the files broken down into
         segments AKA packets.
       </p>
@@ -66,36 +66,24 @@
           href="https://en.wikipedia.org/wiki/CURL"
           target="_blank"
           rel="noopener noreferrer"
-          >cURL</a
-        >
+        >cURL</a>
         which will be used in the script by right clicking on one of the
         request.
       </p>
       <div style="display:flex;justify-content:center;">
-        <v-zoomer
-          :maxScale="10"
-          style="width: 400px; height: 100%; border: solid 1px silver; "
-        >
-          <img
-            alt="some meme about
-        arch Linux"
-            src="../../../assets/bash_copy_as_curl.png"
-          />
+        <v-zoomer :maxScale="50" style=" border: solid 1px silver; ">
+          <img alt="some meme about
+        arch Linux" src="../../../assets/bash_copy_as_curl.png" />
         </v-zoomer>
       </div>
       <div>
         First we need to download all the segments for that we can incorporate a
         simple for loop which will keep on increasing the segment number
+        <img-viewer src="/_nuxt/assets/bash_gfg.jpg"></img-viewer>
         <div style="display:flex;justify-content:center;">
-          <v-zoomer
-            :maxScale="10"
-            style="width: 400px; height: 100%; border: solid 1px silver; "
-          >
-            <img
-              alt="some meme about
-        arch Linux"
-              src="../../../assets/bash_gfg.jpg"
-            />
+          <v-zoomer :maxScale="10" style="border: solid 1px silver; ">
+            <img alt="some meme about
+        arch Linux" src="../../../assets/bash_gfg.jpg" />
           </v-zoomer>
         </div>
       </div>
@@ -109,10 +97,12 @@ Vue.use(VueZoomer);
 import Prism from "vue-prismjs";
 import "prismjs/themes/prism.css";
 import FeedbackLink from "@@/components/FeedbackLink.vue";
+import ImgViewer from "@@/components/ImageViewer.vue";
 export default {
   components: {
     FeedbackLink,
-    Prism
+    Prism,
+    ImgViewer
   },
   name: "",
   head: {}
