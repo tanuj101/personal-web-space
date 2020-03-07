@@ -34,7 +34,7 @@ export default {
 }
 .viewer-container img {
   max-height: 60vh;
-  /* height: 100%; */
+  max-width: 100vw;
   width: auto;
   display: block !important;
 }
