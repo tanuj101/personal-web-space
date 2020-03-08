@@ -75,9 +75,42 @@
       </div>
       <div>
         First we need to download all the segments for that we can incorporate a
-        simple for loop which will keep on increasing the segment number
+        simple for loop which will keep on increasing the segment number, this will download only the first 5 segments
         <img-viewer src="/bash_gfg.jpg"></img-viewer>
-        <div style="display:flex;justify-content:center;"></div>
+        <div>
+          The
+          <code>%04d</code> just adds padding to the segment number because of the url pattern. These are only the segments of that original video, but we need the video in one single piece.
+        </div>
+        <img-viewer src="/curl_stream_op.jpg"></img-viewer>
+        <div>
+          To recreate this video in one single piece we will use two of the most commonly used programs found in unix and unix-like systems
+          <a
+            href="https://en.wikipedia.org/wiki/Xargs"
+            target="_blank"
+            rel="noopener noreferrer"
+          >xargs</a> which is used to literally build commands and
+          <a
+            href="https://en.wikipedia.org/wiki/Cat_(Unix)"
+            target="_blank"
+            rel="noopener noreferrer"
+          >cat</a> which stands for concatenate meaning to link together.
+          <p>
+            We can use as simple as
+            <img-viewer src="/bash_cat.jpg"></img-viewer>The
+            <code>cat</code> just combines the content of files together for eg. if we do
+            <code>cat 1.txt 2.txt</code> on a term it will just display the concatenated output with content of both the text files. In the same way we are using
+            <code>cat</code> in this case to combine the video streams but the difference is it will not display the content on the terminal but redirect the output to create a new file named video.mp4 which will be the final video.
+          </p>
+        </div>
+        <p>
+          The full script is available
+          <a
+            href="https://gist.github.com/tanuj101/e4411d718cd1b9e2df34ddf90f3e0a72"
+            target="_blank"
+            rel="noopener noreferrer"
+          >here</a>. You can modify this script to take in argument of the url directly, change the segment number to download all the segments, handle errors to stop running curl when 404s status code arrives. I'll leave all this to you.
+        </p>
+        <p>At last thank you for reading this, I'll keep posting such content in the future!</p>
       </div>
     </div>
   </div>

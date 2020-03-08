@@ -19,6 +19,8 @@ export default {
 <style scoped>
 .viewer-container {
   position: fixed;
+  overflow: scroll;
+  height: 100%;
   height: 100%;
   width: auto;
   top: 0;
@@ -26,6 +28,7 @@ export default {
   background-color: rgba(0, 0, 0, 0.5);
   left: 0;
   right: 0;
+  z-index: 2;
 }
 .expand-img {
   display: none;
@@ -47,12 +50,6 @@ export default {
   width: 100%;
   height: auto;
 }
-/* img {
-  width: 150px;
-  border-radius: 2px;
-  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.5);
-  transition: width 1s;
-} */
 img:hover {
   cursor: pointer;
 }

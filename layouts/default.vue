@@ -107,7 +107,7 @@ li a {
   justify-content: center;
   margin-top: 12px;
   font-weight: 600;
-  font-family: "Cormorant";
+  font-family: "Cormorant" !important;
   font-size: 2rem;
 }
 .logo:hover {
