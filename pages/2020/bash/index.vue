@@ -96,10 +96,19 @@
           >cat</a> which stands for concatenate meaning to link together.
           <p>
             We can use as simple as
-            <img-viewer src="/bash_cat.jpg"></img-viewer>The
+            <br />
+            <br />
+            <code>cat /tmp/gfg/* > video.mp4</code>
+            <br />
+            <br />The
             <code>cat</code> just combines the content of files together for eg. if we do
             <code>cat 1.txt 2.txt</code> on a term it will just display the concatenated output with content of both the text files. In the same way we are using
             <code>cat</code> in this case to combine the video streams but the difference is it will not display the content on the terminal but redirect the output to create a new file named video.mp4 which will be the final video.
+            Read more about
+            <a
+              href="https://www.gnu.org/software/bash/manual/html_node/Redirections.html"
+              target="_blank"
+            >output redirections</a>
           </p>
         </div>
         <p>
@@ -110,7 +119,14 @@
             rel="noopener noreferrer"
           >here</a>. You can modify this script to take in argument of the url directly, change the segment number to download all the segments, handle errors to stop running curl when 404s status code arrives. I'll leave all this to you.
         </p>
-        <p>At last thank you for reading this, I'll keep posting such content in the future!</p>
+        <p>
+          At last thank you for reading this, feel free to give your feedbacks on the
+          <a
+            href="https://gist.github.com/tanuj101/e4411d718cd1b9e2df34ddf90f3e0a72"
+            target="_blank"
+            rel="noopener noreferrer"
+          >gist</a> itself.
+        </p>
       </div>
     </div>
   </div>
