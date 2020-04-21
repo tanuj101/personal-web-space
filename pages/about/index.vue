@@ -88,7 +88,7 @@
         <a target="_blank" href="https://github.com/tanuj101">Github</a> — code.
       </li>
       <li>
-        <a href="https://drive.google.com/file/d/1urdPtCT0KUFpC5yaJM28ZS-N3Y0kp9gZ/view?usp=sharing" target="_blank">Resume</a> — know more
+        <a href="https://drive.google.com/file/d/1Z8hwsglxTTf9v7Zrq670cPbRT3-Q43Vw/view?usp=sharing" target="_blank">Resume</a> — know more
       </li>
     </ul>
   </div>
