@@ -1,30 +1,37 @@
 <template>
   <div>
-    <div v-for="post in data" :key="post.id">
-      <nuxt-link v-if="!post.isArchieved" class="blog-link" :to="`/${year}/${post.id}`">
-        <div class="blog-post">
-          <h3 class>{{post.title}}</h3>
-          <p>
-            {{post.description}}
-            <!-- <span datetime>{{post.date}}</span> -->
-          </p>
-        </div>
-      </nuxt-link>
-    </div>
+    <!-- <div v-for="post in data" :key="post.id"> -->
+    <nuxt-link
+      v-if="!data.isArchieved"
+      class="blog-link"
+      :to="`/${data.year}/${data.id}`"
+    >
+      <div class="blog-post">
+        <h3 class>{{ data.title }}</h3>
+        <span class="post-date">{{ data.month + " " + data.year }}</span>
+        <p>
+          {{ data.description }}
+        </p>
+      </div>
+    </nuxt-link>
   </div>
+  <!-- </div> -->
 </template>
 <script>
 export default {
   name: "Blog",
-  props: ["data", "year"],
+  props: ["data"],
   methods: {
-    view: function(post) {}
-  }
+    view: function(post) {},
+  },
 };
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.post-date {
+  float: right;
+}
 h3 {
   display: inline-block;
 }

@@ -1,7 +1,7 @@
 <template>
   <div id="blog-container">
-    <div v-for="(post,year) in posts" :key="year">
-      <Blog :year="year" :data="post"></Blog>
+    <div v-for="(post,index) in posts" :key="`post-${index}`">
+      <Blog :data="post"></Blog>
     </div>
   </div>
 </template>
