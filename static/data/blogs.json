@@ -1,10 +1,10 @@
 [
     {
         "id": "bash",
-        "month": "February",
+        "month": "March",
         "year": 2020,
         "title": "Bash your way through!",
-        "description": "",
+        "description": "Bash is a command language seen in many unix-like systems, in this writing we are going to do some practicle hack with it by downloading a online stream video...",
         "isArchieved": false
     },
     {

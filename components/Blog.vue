@@ -1,12 +1,16 @@
 <template>
   <div>
     <!-- <div v-for="post in data" :key="post.id"> -->
-    <nuxt-link v-if="!data.isArchieved" class="blog-link" :to="`/${data.year}/${data.id}`">
+    <nuxt-link
+      v-if="!data.isArchieved"
+      class="blog-link"
+      :to="`/${data.year}/${data.id}`"
+    >
       <div class="blog-post">
-        <h3 class>{{data.title}}</h3>
+        <h3 class>{{ data.title }}</h3>
+        <span class="post-date">{{ data.month + " " + data.year }}</span>
         <p>
-          {{data.description}}
-          <!-- <span datetime>{{post.date}}</span> -->
+          {{ data.description }}
         </p>
       </div>
     </nuxt-link>
@@ -18,13 +22,16 @@ export default {
   name: "Blog",
   props: ["data"],
   methods: {
-    view: function(post) {}
-  }
+    view: function(post) {},
+  },
 };
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.post-date {
+  float: right;
+}
 h3 {
   display: inline-block;
 }

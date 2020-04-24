@@ -33,40 +33,40 @@ export default {
       hid: "description",
       name: "description",
       content:
-        "Hello. My name is Tanuj Nagpal. I'm an Indian maker-of-software with a passion for technology. During the past 1 year I've worked with...."
+        "Hello. My name is Tanuj Nagpal. I'm an Indian maker-of-software with a passion for technology. During the past 1 year I've worked with....",
     },
     {
       hid: "og:description",
       name: "og:description",
       content:
-        "Hello. My name is Tanuj Nagpal. I'm an Indian maker-of-software with a passion for technology. During the past 1 year I've worked with...."
+        "Hello. My name is Tanuj Nagpal. I'm an Indian maker-of-software with a passion for technology. During the past 1 year I've worked with....",
     },
     {
       hid: "og:url",
       property: "og:url",
-      content: "www.tanujnagpal.tech/about"
+      content: "www.tanujnagpal.tech/about",
     },
     {
       hid: "og:type",
       property: "og:type",
-      content: "article"
+      content: "article",
     },
     {
       hid: "og:site_name",
       property: "og:site_name",
-      content: "tanujnagpal.tech"
+      content: "tanujnagpal.tech",
     },
     {
       "http-equiv": "Content-Type",
       content: "text/html",
-      charset: "utf-8"
+      charset: "utf-8",
     },
     {
       "http-equiv": "Content-Type",
       content: "text/html",
-      charset: "ISO-8859-1"
-    }
-  ]
+      charset: "ISO-8859-1",
+    },
+  ],
 };
 </script>
 
@@ -107,7 +107,7 @@ li a {
   justify-content: center;
   margin-top: 12px;
   font-weight: 600;
-  font-family: "Cormorant" !important;
+  font-family: "Cormorant", serif;
   font-size: 2rem;
 }
 .logo:hover {
