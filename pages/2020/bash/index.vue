@@ -45,6 +45,7 @@
       <div class="question" style="margin:19px 0px;">
         https://cdnvideos.geeksforgeeks.org/courses/c9640d9f44fec028c51edd88c2d7acf6gfg-L8-hlsx480p/00000/c9640d9f44fec028c51edd88c2d7acf6gfg-L8-hlsx480p-seg_00020.ts
       </div>
+
       <p>
         The key thing here is to look for pattern in urls of all the network
         request going out as the video proceeds. In this example the last part
@@ -137,15 +138,15 @@
           this to you.
         </p>
         <p>
-          At last thank you for reading this, feel free to give your feedbacks
-          on the
+          At last thank you for reading this, feel free to give your feedback on
+          the
           <a
             href="https://gist.github.com/tanuj101/e4411d718cd1b9e2df34ddf90f3e0a72"
             target="_blank"
             rel="noopener noreferrer"
             >gist</a
           >
-          itself.
+          itself or an Anonymous <FeedbackLink />.
         </p>
       </div>
     </div>
