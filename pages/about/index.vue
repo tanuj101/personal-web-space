@@ -16,8 +16,6 @@
       <a href="/about/instantpost">InstantPost</a> as an Intern where my major
       work have been on an automation software so far.
       <br />
-      <b>[UPDATES]</b> - I'd expectantly be joining fulltime by end of my
-      graduation
       <!-- Find out more on
       <a href="https://www.linkedin.com/in/tanuj69/">LinkedIn</a>.-->
     </p>
