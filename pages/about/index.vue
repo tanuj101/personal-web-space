@@ -19,11 +19,9 @@
       <!-- Find out more on
       <a href="https://www.linkedin.com/in/tanuj69/">LinkedIn</a>.-->
     </p>
-    <!-- <p>
       <nuxt-link to="/about/instantpost">Read more about my work with InstantPost →</nuxt-link>
-    </p>-->
     <p>
-      In my spare time I enjoy
+      In my spare time, I enjoy
       <a href="https://github.com/tanuj101" target="_blank"
         >dabbling with softwares</a
       >
@@ -103,14 +101,6 @@
       </li>
       <li>
         <a target="_blank" href="https://github.com/tanuj101">Github</a> — code.
-      </li>
-      <li>
-        <a
-          href="https://drive.google.com/file/d/1Z8hwsglxTTf9v7Zrq670cPbRT3-Q43Vw/view?usp=sharing"
-          target="_blank"
-          >Resume</a
-        >
-        — know more
       </li>
     </ul>
   </div>
