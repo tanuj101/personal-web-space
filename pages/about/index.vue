@@ -12,9 +12,9 @@
     <p>Hello. My name is Tanuj Nagpal.</p>
     <p>I'm a computer science student.</p>
     <p>
-      I'm working with
-      <a href="/about/instantpost">InstantPost</a> as an Intern where my major
-      work have been on an automation software so far.
+      I'm currently working with Josh Technology Group building car park management platform, previously worked with
+      InstantPost as an Intern where my major
+      work has been on automation softwares.
       <br />
       <!-- Find out more on
       <a href="https://www.linkedin.com/in/tanuj69/">LinkedIn</a>.-->
