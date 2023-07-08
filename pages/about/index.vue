@@ -12,9 +12,9 @@
     <p>Hello. My name is Tanuj Nagpal.</p>
     <p>I'm a computer science student.</p>
     <p>
-      I'm currently working with Josh Technology Group building car park management platform, previously worked with
+      I'm currently working with Josh Technology Group building a car park management platform for a client, previously worked with
       InstantPost as an Intern where my major
-      work has been on automation softwares.
+      work has been on automation applications.
       <br />
       <!-- Find out more on
       <a href="https://www.linkedin.com/in/tanuj69/">LinkedIn</a>.-->
@@ -32,40 +32,28 @@
         href="https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy"
         target="_blank"
         >GNU/Linux</a
-      >, building application that no one will ever use haha! I also like ricing
+      >, building an application that no one will ever use haha! I also like ricing
       <!-- TODO: Add views on GNU/Linux vs only Linux  -->
       my GNU/Linux environment. Here are my
       <a target="_blank" href="https://github.com/Tanuj101/dotfiles"
         >dotfiles</a
       >
       or configs you may say just in case. I like minimalism on things around me
-      so I keep my Desktop environment like this, below is some description
+      so I keep my Desktop environment like this, below is a description
       about it.
     </p>
     <div class="flex-row">
-      <a
-        title="Old Rice"
-        target="_blank"
-        href="https://github.com/Tanuj101/dotfiles"
-      >
-        <img
-          alt="Linux customization"
-          height="140"
-          src="../../assets/rice1.jpeg"
-        />
-      </a>
-      <a
-        title="Cricket update notifier"
-        target="_blank"
-        href="https://github.com/Tanuj101/IPL-Live-updates"
-      >
-        <img
-          alt="Linux customization"
-          height="140"
-          width="190"
-          src="../../assets/ipl.jpeg"
-        />
-      </a>
+      <img
+        alt="Linux customization"
+        height="140"
+        src="../../assets/rice1.jpeg"
+    />
+      <img
+        alt="Linux customization"
+        height="140"
+        width="190"
+        src="../../assets/ipl.jpeg"
+      />
       <a href="https://github.com/Tanuj101/dotfiles" target="_blank">
         <video
           height="140"
@@ -79,8 +67,8 @@
     </div>
     <p>
       Here is a glimpse of my workspace ;). I'm using i3wm as my window manager
-      to keep everything organized at my dekstop so that everything is in reach
-      within a minimum key strokes away,
+      to keep everything organized at my desktop so that everything is within reach
+      within a minimum keystrokes away,
       <a href="https://github.com/fish-shell/fish-shell" target="_blank"
         >fish</a
       >
@@ -91,22 +79,18 @@
     <center></center>
     <p>
       I maintain this website as my blog where I can share my experience with
-      anything that occurs to me whilst I keep moving forward in the world .
+      anything that occurs to me whilst I keep moving forward in the world.
       This is also a side project which I started for fun with
       <a href="https://github.com/nuxt" target="_blank">nuxt.js</a> which is
-      built on the top of Vue to get hands on experience with how server side
+      built on the top of Vue to get hands-on experience with how server-side
       pages web pages can be generated from a component-based web app with full
-      SEO support and client side routing on front-end only as it is hosted on
-      github pages. Anyway if you have any kind of feedback feel free to click
-      on this
-      <i>anonymous</i>
-      <FeedbackLink />link.
+      SEO support and client-side routing on front end.
     </p>
     <p style="border-bottom:1px solid #eee;padding-bottom:40px">
-      Gaming also used to be a big part of my life, but has lately taken a back
-      seat as a past time hobby as I discovered more exciting things. I played
+      Gaming also used to be a big part of my life but has lately taken a back
+      seat as a pastime hobby as I discovered more exciting things. I played
       FPS Games like Call of Duty(Most of the segments), TPP games like Tomb
-      Raider, Mad Max and a strategic game which by far I've played the most
+      Raider, Mad Max, and a strategic game which by far I've played the most
       Clash of Clans.
     </p>
     <h2>etc</h2>
