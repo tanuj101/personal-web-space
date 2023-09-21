@@ -12,7 +12,7 @@
     <p>Hello. My name is Tanuj Nagpal.</p>
     <p>I'm a computer science student.</p>
     <p>
-      I'm currently working with Josh Technology Group building a car park management platform for a client, previously worked with
+      I'm currently working with Josh Technology Group, previously worked with
       InstantPost as an Intern where my major
       work has been on automation applications.
       <br />
